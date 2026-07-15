@@ -54,7 +54,7 @@ input::placeholder { color: #8a8f99; }
             <span style="position:absolute;left:0;top:0;width:9px;height:9px;border:2px solid var(--text2,#adadb8);border-radius:50%"></span>
             <span style="position:absolute;left:11px;top:11px;width:7px;height:2px;background:var(--text2,#adadb8);border-radius:2px;transform:rotate(45deg);transform-origin:0 50%"></span>
           </span>
-          <input ref="{{ searchRef }}" value="{{ query }}" onInput="{{ onQuery }}" placeholder="クリップを検索(タイトル・ゲーム名・作成者)" style="flex:1;background:transparent;border:none;outline:none;color:var(--text,#efeff1);font-size:14px;padding:10px 0">
+          <input ref="{{ searchRef }}" value="{{ query }}" onInput="{{ onQuery }}" placeholder="クリップを検索(タイトル・ゲーム名)" style="flex:1;background:transparent;border:none;outline:none;color:var(--text,#efeff1);font-size:14px;padding:10px 0">
         </div>
         <sc-if value="{{ hasSuggests }}" hint-placeholder-val="{{ false }}">
           <div style="position:absolute;top:calc(100% + 6px);left:0;right:0;z-index:200;background:var(--surface,#1b1d24);border:1px solid var(--border,#31343f);border-radius:12px;box-shadow:0 12px 30px var(--shadow,rgba(0,0,0,.55));padding:6px">
