@@ -39,12 +39,26 @@ input::placeholder { color: #8a8f99; }
       <button onClick="{{ onNavRank }}" style="{{ navRankStyle }}">ランキング</button>
     </nav>
     <div style="flex:1;display:flex;justify-content:center">
-      <div style="display:flex;align-items:center;gap:11px;width:min(480px,100%);background:var(--surface2,#1f1f23);border:1px solid var(--border,#303036);border-radius:999px;padding:0 18px">
-        <span style="position:relative;width:16px;height:16px;flex:0 0 auto">
-          <span style="position:absolute;left:0;top:0;width:9px;height:9px;border:2px solid var(--text2,#adadb8);border-radius:50%"></span>
-          <span style="position:absolute;left:11px;top:11px;width:7px;height:2px;background:var(--text2,#adadb8);border-radius:2px;transform:rotate(45deg);transform-origin:0 50%"></span>
-        </span>
-        <input ref="{{ searchRef }}" value="{{ query }}" onInput="{{ onQuery }}" placeholder="クリップを検索(タイトル・ゲーム名・作成者)" style="flex:1;background:transparent;border:none;outline:none;color:var(--text,#efeff1);font-size:14px;padding:10px 0">
+      <div style="position:relative;width:min(480px,100%)">
+        <div style="display:flex;align-items:center;gap:11px;width:100%;background:var(--surface2,#1f1f23);border:1px solid var(--border,#303036);border-radius:999px;padding:0 18px;box-sizing:border-box">
+          <span style="position:relative;width:16px;height:16px;flex:0 0 auto">
+            <span style="position:absolute;left:0;top:0;width:9px;height:9px;border:2px solid var(--text2,#adadb8);border-radius:50%"></span>
+            <span style="position:absolute;left:11px;top:11px;width:7px;height:2px;background:var(--text2,#adadb8);border-radius:2px;transform:rotate(45deg);transform-origin:0 50%"></span>
+          </span>
+          <input ref="{{ searchRef }}" value="{{ query }}" onInput="{{ onQuery }}" placeholder="クリップを検索(タイトル・ゲーム名・作成者)" style="flex:1;background:transparent;border:none;outline:none;color:var(--text,#efeff1);font-size:14px;padding:10px 0">
+        </div>
+        <sc-if value="{{ hasSuggests }}" hint-placeholder-val="{{ false }}">
+          <div style="position:absolute;top:calc(100% + 6px);left:0;right:0;z-index:200;background:var(--surface,#1b1d24);border:1px solid var(--border,#31343f);border-radius:12px;box-shadow:0 12px 30px var(--shadow,rgba(0,0,0,.55));padding:6px">
+            <sc-for list="{{ suggests }}" as="sg" hint-placeholder-count="3">
+              <button onClick="{{ sg.onClick }}" style="display:flex;align-items:center;gap:10px;width:100%;background:none;border:none;cursor:pointer;padding:9px 12px;border-radius:8px;text-align:left" style-hover="background:var(--surface2,#232630)">
+                <span style="font-size:11px;font-weight:700;color:var(--accent,#EB550C);border:1px solid var(--accent,#EB550C);border-radius:5px;padding:1px 6px;flex:0 0 auto">タグ</span>
+                <span style="font-size:13.5px;font-weight:600;color:var(--text,#f2f3f5)">{{ sg.label }}</span>
+                <span style="flex:1"></span>
+                <span style="font-size:11.5px;color:var(--text2,#9aa0ad)">{{ sg.count }}</span>
+              </button>
+            </sc-for>
+          </div>
+        </sc-if>
       </div>
     </div>
     <button onClick="{{ onTheme }}" style="flex:0 0 auto;background:var(--surface2,#1f1f23);border:1px solid var(--border,#303036);color:var(--text,#efeff1);border-radius:999px;padding:8px 14px;font-size:12.5px;font-weight:600;cursor:pointer">{{ themeLabel }}</button>
@@ -382,6 +396,35 @@ class Component extends DCLogic {
     'Sports': 'スポーツ',
     'Rhythm Heaven': 'リズム天国'
   };
+
+  // 検索候補用の読み仮名・略称(ひらがな/小文字で書く)
+  GAME_ALIAS = {
+    'Just Chatting': ['ざつだん', 'ざつ', 'ちゃっと'],
+    'Splatoon 3': ['すぷら', 'すぷら3', 'すぷらとぅーん', 'いか'],
+    'Street Fighter 6': ['すと6', 'すとりーとふぁいたー', 'sf6'],
+    'ARK: Survival Evolved': ['あーく'],
+    'ARK: Survival Ascended': ['あーく', 'asa'],
+    'Minecraft': ['まいくら', 'まいんくらふと'],
+    'Grand Theft Auto V': ['ぐらせふ', 'gta'],
+    'Apex Legends': ['えぺ', 'えーぺっくす'],
+    'ELDEN RING': ['えるでんりんぐ'],
+    'Monster Hunter Wilds': ['もんはん', 'わいるず'],
+    'Monster Hunter Rise': ['もんはん', 'らいず'],
+    'Dead by Daylight': ['でっどばい', 'でぃーびーでぃー'],
+    'Escape from Tarkov': ['たるこふ'],
+    'Fall Guys': ['ふぉーるがいず'],
+    'Overwatch 2': ['おーばーうぉっち', 'おだぶ'],
+    'Overwatch': ['おーばーうぉっち', 'おだぶ'],
+    'DARK SOULS III': ['だくそ', 'だくそ3', 'だーくそうるず'],
+    'Rust': ['らすと'],
+    'PUBG: BATTLEGROUNDS': ['ぱぶじー'],
+    'Watch Parties': ['うぉっちぱーてぃ', 'どうじしちょう', '同時視聴'],
+    'Puyo Puyo Tetris 2': ['ぷよぷよ', 'ぷよてと', 'てとりす'],
+    'Rhythm Heaven': ['りずむてんごく'],
+    'Special Events': ['いべんと'],
+    'Music': ['おんがく'],
+    'Sports': ['すぽーつ']
+  };
   GOOD_W = 100;
   BAD_W = 100;
   RX_KEYS = ['good', 'bad', 'q', 'xq', 'mu'];
@@ -515,6 +558,20 @@ class Component extends DCLogic {
 
   clips() { return (this.state.data && this.state.data.clips) || []; }
   gameLabel(g) { return this.GAME_JA[g] || g || ''; }
+
+  // カタカナ→ひらがな・全角→半角・記号除去(検索候補のゆるい一致用)
+  norm(s) {
+    return String(s || '').toLowerCase()
+      .replace(/[\u30a1-\u30f6]/g, ch => String.fromCharCode(ch.charCodeAt(0) - 0x60))
+      .replace(/[Ａ-Ｚａ-ｚ０-９]/g, ch => String.fromCharCode(ch.charCodeAt(0) - 0xFEE0))
+      .replace(/[\s\u3000:：・.,、。!?！？'"'－ー\-]/g, '');
+  }
+
+  gameCounts() {
+    const cnt = {};
+    this.clips().forEach(c => { if (c.game) cnt[c.game] = (cnt[c.game] || 0) + 1; });
+    return cnt;
+  }
   cnt(id) {
     const c = this.state.counts[id] || {};
     return { good: c.good || 0, bad: c.bad || 0, q: c.q || 0, xq: c.xq || 0, mu: c.mu || 0 };
@@ -739,14 +796,11 @@ class Component extends DCLogic {
       { key: 'fav', label: 'お気に入り' },
       { key: 'hist', label: '履歴' }
     ];
-    const cnt = {};
-    this.clips().forEach(c => { if (c.game) cnt[c.game] = (cnt[c.game] || 0) + 1; });
-    Object.keys(cnt).sort((a, b) => cnt[b] - cnt[a]).slice(0, 14)
-      .forEach(g => defs.push({ key: 'g:' + g, label: this.gameLabel(g) }));
+    if (chip.indexOf('g:') === 0) defs.push({ key: chip, label: this.gameLabel(chip.slice(2)) + ' ✕' });
     return defs.map(d => ({
       label: d.label,
       style: this.chipStyle(chip === d.key),
-      onClick: () => this.setState({ chip: d.key, visCount: 96 })
+      onClick: () => this.setState({ chip: chip === d.key && d.key.indexOf('g:') === 0 ? 'all' : d.key, visCount: 96 })
     }));
   }
 
@@ -922,6 +976,28 @@ class Component extends DCLogic {
       homeTo: this.state.homeTo,
       onHomeFrom: (e) => this.setState({ homeFrom: e.target.value, visCount: 96 }),
       onHomeTo: (e) => this.setState({ homeTo: e.target.value, visCount: 96 }),
+      suggests: (() => {
+        const nq = this.norm(query);
+        if (!nq) return [];
+        const cnt = this.gameCounts();
+        return Object.keys(cnt)
+          .filter(g => [g, this.gameLabel(g)].concat(this.GAME_ALIAS[g] || [])
+            .some(h => this.norm(h).indexOf(nq) !== -1))
+          .sort((a, b) => cnt[b] - cnt[a])
+          .slice(0, 6)
+          .map(g => ({
+            label: this.gameLabel(g),
+            count: cnt[g] + '本',
+            onClick: () => this.setState({ chip: 'g:' + g, query: '', visCount: 96, view: 'home' })
+          }));
+      })(),
+      hasSuggests: (() => {
+        const nq = this.norm(query);
+        if (!nq) return false;
+        const cnt = this.gameCounts();
+        return Object.keys(cnt).some(g => [g, this.gameLabel(g)].concat(this.GAME_ALIAS[g] || [])
+          .some(h => this.norm(h).indexOf(nq) !== -1));
+      })(),
       chips: this.buildChips(),
       countLabel: loading ? '' : allVisible.length + '本',
       sampleNotice: !loading && data && data.sample
