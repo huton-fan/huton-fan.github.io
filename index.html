@@ -33,6 +33,8 @@ input::placeholder { color: #8a8f99; }
 ::-webkit-scrollbar-thumb { background: #35353c; border-radius: 6px; }
 ::-webkit-scrollbar-track { background: transparent; }
 @keyframes shimmer { 0% { opacity: .45; } 50% { opacity: 1; } 100% { opacity: .45; } }
+@keyframes rxpop { 0% { scale: 1; } 40% { scale: 1.14; } 100% { scale: 1; } }
+@keyframes rxrip { 0% { transform: scale(1); opacity: 0.65; } 100% { transform: scale(1.3); opacity: 0; } }
 </style>
 </helmet>
 <div style="{{ rootStyle }}">
@@ -274,10 +276,10 @@ input::placeholder { color: #8a8f99; }
         </sc-if>
         <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-top:12px">
           <sc-if value="{{ watchHasGood }}" hint-placeholder-val="{{ false }}">
-            <button onClick="{{ onGood }}" title="Good" style="{{ goodStyle }}"><span style="{{ goodIconStyle }}"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" style="flex:0 0 auto"><path d="M1 21h4V9H1v12zM23 10c0-1.1-.9-2-2-2h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 1 7.59 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2h9c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-2z"></path></svg></span>{{ goodLabel }}</button>
+            <button onClick="{{ onGood }}" title="Good" style="{{ goodStyle }}"><span style="{{ goodIconStyle }}"><svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" style="flex:0 0 auto"><path d="M1 21h4V9H1v12zM23 10c0-1.1-.9-2-2-2h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 1 7.59 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2h9c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-2z"></path></svg></span>{{ goodLabel }}</button>
           </sc-if>
           <sc-if value="{{ watchHasBad }}" hint-placeholder-val="{{ false }}">
-            <button onClick="{{ onBad }}" title="Bad" style="{{ badStyle }}"><span style="{{ badIconStyle }}"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" style="flex:0 0 auto"><path d="M15 3H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 23l6.59-6.59c.36-.36.58-.86.58-1.41V5c0-1.1-.9-2-2-2zm4 0v12h4V3h-4z"></path></svg></span>{{ badLabel }}</button>
+            <button onClick="{{ onBad }}" title="Bad" style="{{ badStyle }}"><span style="{{ badIconStyle }}"><svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" style="flex:0 0 auto"><path d="M15 3H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 23l6.59-6.59c.36-.36.58-.86.58-1.41V5c0-1.1-.9-2-2-2zm4 0v12h4V3h-4z"></path></svg></span>{{ badLabel }}</button>
           </sc-if>
           <sc-if value="{{ watchHasKusa }}" hint-placeholder-val="{{ false }}">
             <button onClick="{{ onKusa }}" title="草" style="{{ kusaStyle }}"><span style="{{ kusaGlyphStyle }}">草</span>{{ kusaLabel }}</button>
@@ -687,10 +689,28 @@ class Component extends DCLogic {
     return pop / Math.pow(days + 2, 1.35);
   }
 
+  // E-5: 押した瞬間、ボタン形の細い輪が2本時差で広がる+スタンプが微ポップ
+  rippleFx(btn, key) {
+    try {
+      const colors = { good: '#2FAD62', bad: '#6C8EE3', kusa: '#57C15A', kami: '#F7C948', naki: '#5CB3F5', q: '#F5A623', xq: '#E5484D', mu: '#D6409F' };
+      const color = colors[key] || '#EB550C';
+      const g = btn.firstElementChild;
+      if (g) { g.style.animation = 'none'; void g.offsetWidth; g.style.animation = 'rxpop 0.35s ease-out'; }
+      if (getComputedStyle(btn).position === 'static') btn.style.position = 'relative';
+      for (let i = 0; i < 2; i++) {
+        const r = document.createElement('span');
+        r.style.cssText = 'position:absolute;inset:-1px;border-radius:999px;border:1.5px solid ' + color + ';pointer-events:none;opacity:0;animation:rxrip 0.5s ease-out ' + (i * 0.16) + 's forwards;';
+        btn.appendChild(r);
+        setTimeout(() => r.remove(), 950);
+      }
+    } catch (e) {}
+  }
+
   react(id, key, ev) {
     const votes = { ...this.state.votes };
     const mine = { ...(votes[id] || {}) };
     const turnOn = !mine[key];
+    if (turnOn && ev && ev.currentTarget) this.rippleFx(ev.currentTarget, key);
     if (turnOn) mine[key] = 1; else delete mine[key];
     if (Object.keys(mine).length) votes[id] = mine; else delete votes[id];
     const counts = { ...this.state.counts };
@@ -1221,12 +1241,12 @@ class Component extends DCLogic {
       pickNakiStyle: pk(!!mine.naki, '#5CB3F5'),
       goodIconStyle: { display: 'flex', alignItems: 'center', color: '#2FAD62' },
       badIconStyle: { display: 'flex', alignItems: 'center', color: '#6C8EE3', transform: 'rotate(5deg)' },
-      qGlyphStyle: { display: 'inline-block', transform: 'rotate(-10deg)', fontWeight: 900, fontSize: '15px', lineHeight: '1', color: '#F5A623', WebkitTextStroke: '0.04em #F5A623' },
-      xqGlyphStyle: { display: 'inline-block', fontWeight: 900, fontSize: '15px', lineHeight: '1', color: '#E5484D', WebkitTextStroke: '0.04em #E5484D' },
-      muGlyphStyle: { display: 'inline-block', transform: 'rotate(-12deg)', fontWeight: 900, fontSize: '15px', lineHeight: '1', color: '#D6409F', WebkitTextStroke: '0.04em #D6409F' },
-      kusaGlyphStyle: { display: 'inline-block', transform: 'rotate(3deg)', fontWeight: 900, fontSize: '15px', lineHeight: '1', color: '#57C15A' },
-      kamiGlyphStyle: { display: 'inline-block', fontWeight: 900, fontSize: '15px', lineHeight: '1', color: '#F7C948', WebkitTextStroke: '0.04em #F7C948' },
-      nakiGlyphStyle: { display: 'inline-block', transform: 'rotate(10deg)', fontWeight: 900, fontSize: '15px', lineHeight: '1', color: '#5CB3F5', WebkitTextStroke: '0.04em #5CB3F5' },
+      qGlyphStyle: { display: 'inline-block', transform: 'rotate(-10deg)', fontWeight: 900, fontSize: '21px', lineHeight: '1', color: '#F5A623', WebkitTextStroke: '0.04em #F5A623' },
+      xqGlyphStyle: { display: 'inline-block', fontWeight: 900, fontSize: '19px', lineHeight: '1', color: '#E5484D', WebkitTextStroke: '0.04em #E5484D' },
+      muGlyphStyle: { display: 'inline-block', transform: 'rotate(-12deg)', fontWeight: 900, fontSize: '21px', lineHeight: '1', color: '#D6409F', WebkitTextStroke: '0.04em #D6409F' },
+      kusaGlyphStyle: { display: 'inline-block', transform: 'rotate(3deg)', fontWeight: 900, fontSize: '17px', lineHeight: '1', color: '#57C15A' },
+      kamiGlyphStyle: { display: 'inline-block', fontWeight: 900, fontSize: '17px', lineHeight: '1', color: '#F7C948', WebkitTextStroke: '0.04em #F7C948' },
+      nakiGlyphStyle: { display: 'inline-block', transform: 'rotate(10deg)', fontWeight: 900, fontSize: '17px', lineHeight: '1', color: '#5CB3F5', WebkitTextStroke: '0.04em #5CB3F5' },
       onWatchFav: () => this.toggleFav(cur.id),
       watchFavStyle: favs.includes(cur.id)
         ? { ...pillStyle, background: accent, border: '1px solid transparent', color: '#ffffff' }
