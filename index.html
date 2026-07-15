@@ -682,11 +682,18 @@ class Component extends DCLogic {
   }
   score(c) { const n = this.cnt(c.id); return n.good + n.bad + n.q + n.xq + n.mu + n.kusa + n.kami + n.naki; }
 
-  // おすすめ順: 人気(視聴回数+リアクション)を経過日数で減衰 — 新しくて勢いのある物が上位
+  // おすすめ順: ①リアクション付きが最上位 ②視聴1万回以上 ③視聴5千回以上 ④それ以外
+  // 各グループ内では 人気(視聴回数+リアクション×200)を経過日数で減衰した順
   hotScore(c) {
     const days = c.created ? Math.max(0, (Date.now() - new Date(c.created).getTime()) / 864e5) : 9999;
-    const pop = (c.views || 0) + this.score(c) * 200;
-    return pop / Math.pow(days + 2, 1.35);
+    const n = this.score(c);
+    const v = c.views || 0;
+    const base = (v + n * 200) / Math.pow(days + 2, 1.35);
+    let tier = 0;
+    if (n > 0) tier = 3;
+    else if (v >= 10000) tier = 2;
+    else if (v >= 5000) tier = 1;
+    return tier * 1e9 + base;
   }
 
   // E-1: 押した瞬間、ボタンから色の波紋が広がり、スタンプがぐいっと弾む
