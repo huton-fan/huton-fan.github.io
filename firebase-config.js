@@ -10,3 +10,11 @@
 // コメントは自分の端末の中だけに保存されます。
 // ============================================================
 window.HUTONCLIPS_DB_URL = "https://huton-fan-default-rtdb.asia-southeast1.firebasedatabase.app";
+
+// ============================================================
+// アクセス解析(任意・無料) — goatcounter.com で無料登録し、
+// 発行された自分のURLを下に貼ると計測が始まります。
+// 例: window.HUTONFAN_GOATCOUNTER = "https://huton-fan.goatcounter.com/count";
+// 空("")のままなら計測なし(サイトは普通に動きます)。
+// ============================================================
+window.HUTONFAN_GOATCOUNTER = "";
