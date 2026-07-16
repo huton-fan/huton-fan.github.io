@@ -4,14 +4,14 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>huton-fan｜布団ちゃんTwitchクリップまとめ</title>
-<link rel="icon" href="assets/hutonclips-icon.png?v=3">
+<link rel="icon" href="assets/hutonclips-icon.png?v=4">
 <meta property="og:title" content="huton-fan｜布団ちゃんTwitchクリップまとめ">
 <meta property="og:description" content="布団ちゃんのTwitchクリップを全部まとめて見られる非公式ファンサイト。ランキング・ゲーム別検索・リアクション・コメント。">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://huton-fan.com/">
-<meta property="og:image" content="https://huton-fan.com/assets/ogp.png?v=3">
+<meta property="og:image" content="https://huton-fan.com/assets/ogp.png?v=4">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://huton-fan.com/assets/ogp.png?v=3">
+<meta name="twitter:image" content="https://huton-fan.com/assets/ogp.png?v=4">
 <script src="./support.js"></script>
 </head>
 <body>
@@ -114,7 +114,7 @@ input::placeholder { color: #8a8f99; }
       </div>
 
       <sc-if value="{{ loading }}" hint-placeholder-val="{{ true }}">
-        <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:26px 16px;padding:20px 24px 48px">
+        <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(max(300px,calc((100% - 48px)/4)),1fr));gap:26px 16px;padding:20px 24px 48px">
           <sc-for list="{{ skels }}" as="s" hint-placeholder-count="8">
             <div style="display:flex;flex-direction:column;gap:10px;animation:shimmer 1.6s ease-in-out infinite">
               <div style="aspect-ratio:16/9;border-radius:12px;background:var(--surface2,#1f1f23)"></div>
@@ -126,7 +126,7 @@ input::placeholder { color: #8a8f99; }
       </sc-if>
 
       <sc-if value="{{ ready }}" hint-placeholder-val="{{ false }}">
-        <div ref="{{ gridRef }}" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:26px 16px;padding:20px 24px 8px">
+        <div ref="{{ gridRef }}" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(max(300px,calc((100% - 48px)/4)),1fr));gap:26px 16px;padding:20px 24px 8px">
           <sc-for list="{{ grid }}" as="v" hint-placeholder-count="6">
             <article onClick="{{ v.onOpen }}" style="cursor:pointer;display:flex;flex-direction:column;gap:10px;min-width:0">
               <div style="position:relative;aspect-ratio:16/9;border-radius:12px;overflow:hidden;background:var(--surface2,#1f1f23)">
@@ -210,7 +210,7 @@ input::placeholder { color: #8a8f99; }
           </div>
         </sc-if>
       </div>
-      <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:26px 16px;margin-top:20px">
+      <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(max(300px,calc((100% - 48px)/4)),1fr));gap:26px 16px;margin-top:20px">
         <sc-for list="{{ rankRows }}" as="r" hint-placeholder-count="6">
           <article onClick="{{ r.onOpen }}" style="cursor:pointer;display:flex;flex-direction:column;gap:10px;min-width:0">
             <div style="position:relative;aspect-ratio:16/9;border-radius:12px;overflow:hidden;background:var(--surface2,#1f1f23)">
@@ -624,7 +624,7 @@ class Component extends DCLogic {
     const el = this.gridRef.current;
     if (el) {
       const w = Math.max(200, Math.min(480, Number(this.props.cardMin ?? 300)));
-      el.style.gridTemplateColumns = 'repeat(auto-fill, minmax(' + w + 'px, 1fr))';
+      el.style.gridTemplateColumns = 'repeat(auto-fill, minmax(max(' + w + 'px, calc((100% - 48px)/4)), 1fr))';
     }
   }
 
