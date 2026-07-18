@@ -1,14 +1,24 @@
 {
  "site": "hutonclips",
  "channel": "indegnasen0706",
- "updated": "2026-07-18T10:49:01.253Z",
+ "updated": "2026-07-18T14:42:45.545Z",
  "clips": [
+  {
+   "id": "TriangularGeniusFennelDansGame-pC8q1k7tGfPk6mLn",
+   "title": "テレポート松",
+   "game": "Just Chatting",
+   "created": "2026-07-18T10:47:05Z",
+   "views": 17,
+   "duration": 9.9,
+   "creator": "あんちょびい",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f585c412-1bb5-4cb3-beaa-eb0b756cb088/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
   {
    "id": "PatientObedientSlothPanicBasket-Zcf_yyhnMYBuZ5b5",
    "title": "チャーハンが美味しくて眉間がコンボイする松",
    "game": "Just Chatting",
    "created": "2026-07-18T09:48:01Z",
-   "views": 135,
+   "views": 301,
    "duration": 30,
    "creator": "greennoah2",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c645b836-1ae6-4e32-bda4-1b9625b8e0b5/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -18,7 +28,7 @@
    "title": "名古屋プチブラリ旅〜幻の中華料理店を目指してー※凸禁止",
    "game": "Just Chatting",
    "created": "2026-07-18T06:28:02Z",
-   "views": 59,
+   "views": 81,
    "duration": 30,
    "creator": "mako_oswald",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c1814018-862a-4432-92cd-00d531e47d2a/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -28,7 +38,7 @@
    "title": "困り眉",
    "game": "Just Chatting",
    "created": "2026-07-18T06:24:06Z",
-   "views": 91,
+   "views": 136,
    "duration": 30,
    "creator": "aimaimainn",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6a20b52b-a711-4ece-a256-8738d554340f/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -38,7 +48,7 @@
    "title": "こわい",
    "game": "Just Chatting",
    "created": "2026-07-18T06:22:34Z",
-   "views": 453,
+   "views": 612,
    "duration": 30,
    "creator": "aimaimainn",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/806a054c-9a54-428e-ac0e-3c073e5d5a69/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -48,27 +58,17 @@
    "title": "彼氏わず？",
    "game": "Just Chatting",
    "created": "2026-07-18T06:21:10Z",
-   "views": 59,
+   "views": 85,
    "duration": 30,
    "creator": "aimaimainn",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3a4f40b9-806d-4aa8-9486-71c50738135a/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
-   "id": "CarefulFineCocoaWOOP-IR9C3Q7OI7T4yA31",
-   "title": "タイ米の捕食シーン",
-   "game": "Just Chatting",
-   "created": "2026-07-18T04:53:24Z",
-   "views": 13,
-   "duration": 30,
-   "creator": "sasamikatu1462",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/2722cb96-ba4e-435d-b9f9-1cecb80d4dda/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "GlamorousStylishArmadilloStrawBeary-MSmBn32vh3QXiTCZ",
    "title": "なんかおちたｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ",
    "game": "Just Chatting",
    "created": "2026-07-17T11:06:15Z",
-   "views": 17,
+   "views": 19,
    "duration": 23.7,
    "creator": "azuki0465",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/8dad7f26-c1e6-4c1f-8443-906e5c4380bb/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -78,7 +78,7 @@
    "title": "ARKはコレ",
    "game": "ARK: Survival Ascended",
    "created": "2026-07-17T10:53:25Z",
-   "views": 18,
+   "views": 20,
    "duration": 45.4,
    "creator": "baldo1o1",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6132de6a-f30a-4794-8b26-9f091c8eaf1d/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -88,7 +88,7 @@
    "title": "飛び散りすぎｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ",
    "game": "Just Chatting",
    "created": "2026-07-17T10:50:56Z",
-   "views": 12,
+   "views": 13,
    "duration": 17.8,
    "creator": "azuki0465",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/300ba424-e2d2-4465-ad07-668d1c658271/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -108,7 +108,7 @@
    "title": "義眼、痙攣",
    "game": "Just Chatting",
    "created": "2026-07-17T06:13:23Z",
-   "views": 4,
+   "views": 5,
    "duration": 36.8,
    "creator": "zono126",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/9eecc52f-88fd-47c6-8caa-36ac665d9abc/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -118,7 +118,7 @@
    "title": "食い方キモすぎクリップ",
    "game": "Just Chatting",
    "created": "2026-07-17T06:11:40Z",
-   "views": 936,
+   "views": 978,
    "duration": 30,
    "creator": "greennoah2",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/37571d26-4d63-4634-982e-2d2ef1aa156f/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -168,7 +168,7 @@
    "title": "本日のテリー君(2026/07/17)",
    "game": "Just Chatting",
    "created": "2026-07-17T05:46:03Z",
-   "views": 242,
+   "views": 253,
    "duration": 56.8,
    "creator": "仲良くネ",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/63cd3e5d-111a-473b-a7cf-0c89de8f974b/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -198,7 +198,7 @@
    "title": "東野幸治",
    "game": "Just Chatting",
    "created": "2026-07-17T05:40:23Z",
-   "views": 129,
+   "views": 130,
    "duration": 30,
    "creator": "greennoah2",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/b18c7a1a-e016-4df3-bf4d-d33b6ee3c7bb/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -222,16 +222,6 @@
    "duration": 22.9,
    "creator": "Zoolongtea",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3377659a-3ce4-4a87-84d4-7d356bf65108/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
-   "id": "StrangeExpensiveKeyboardPhilosoraptor-ICzUkXVHUT1n9_Gx",
-   "title": "嬉しすぎてキモ笑いが出る布",
-   "game": "ARK: Survival Ascended",
-   "created": "2026-07-16T19:16:00Z",
-   "views": 6,
-   "duration": 8.8,
-   "creator": "RagRumble",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6634f023-1789-4b71-a9b1-805283dcd767/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "SweetBloodyManateePeteZaroll-RArUj8xM4p_D_gxb",
@@ -448,7 +438,7 @@
    "title": "冥獄跳梁ベリアル命名",
    "game": "ARK: Survival Ascended",
    "created": "2026-07-16T11:31:41Z",
-   "views": 317,
+   "views": 321,
    "duration": 49.3,
    "creator": "すうううが",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6ac2410f-6732-4353-9b4c-c820c6fca43a/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -478,7 +468,7 @@
    "title": "余裕をこくもバグる",
    "game": "ARK: Survival Ascended",
    "created": "2026-07-16T10:38:06Z",
-   "views": 11,
+   "views": 12,
    "duration": 30,
    "creator": "gouf_b3",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/87f4600a-58c7-4d56-b060-cae2e979b568/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -518,7 +508,7 @@
    "title": "ﾏﾝ臭の風が~ 頬を撫でて~ ﾄﾞﾌﾞの香り微かに香る~♫",
    "game": "Just Chatting",
    "created": "2026-07-16T09:43:40Z",
-   "views": 109,
+   "views": 110,
    "duration": 59.9,
    "creator": "greennoah2",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/20240fec-7fa5-48ea-8b9b-14bd717d193e/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -608,7 +598,7 @@
    "title": "ピクミン松",
    "game": "Shoyu Ramen Forever",
    "created": "2026-07-15T15:04:30Z",
-   "views": 14,
+   "views": 15,
    "duration": 16.9,
    "creator": "ぬぢ",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a19acd21-e6c8-4c3f-ac38-48f0f1bbf44d/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -658,20 +648,20 @@
    "title": "コンボイすぎるダマスカス",
    "game": "Shoyu Ramen Forever",
    "created": "2026-07-15T13:11:05Z",
-   "views": 229,
+   "views": 239,
    "duration": 30,
    "creator": "greennoah2",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d6d43279-54ae-4cbe-b6ea-bb19a208f8b3/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
-   "id": "MoldyBoldBunnyFrankerZ-qqcVt_Schv6M3Kg5",
-   "title": "布団ちゃん（騙すカス）による簡単な挨拶",
+   "id": "DeliciousThoughtfulCucumberRalpherZ-oK2w-JXK4YjG64Nx",
+   "title": "布団ちゃん(CV.ダマスカス)",
    "game": "Shoyu Ramen Forever",
-   "created": "2026-07-15T13:10:19Z",
+   "created": "2026-07-15T13:10:10Z",
    "views": 4,
-   "duration": 42.9,
-   "creator": "粉乃布巾",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/21d4fd17-a8cc-4a77-83fb-893bb4118de9/landscape/thumb/thumb-0000000000-480x272.jpg"
+   "duration": 59.9,
+   "creator": "ミャロンタクシー",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3d6a454f-2c86-4470-8584-df7f0f9f0656/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "JazzySarcasticGrouseTheTarFu-JqMVeWDEqAYR3CQw",
@@ -748,7 +738,7 @@
    "title": "クリスティアーノ・マニャウド",
    "game": "Just Chatting",
    "created": "2026-07-15T12:28:01Z",
-   "views": 145,
+   "views": 146,
    "duration": 11.9,
    "creator": "greennoah2",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/56087302-9674-4973-9cb4-034e59296fed/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -768,7 +758,7 @@
    "title": "コクワガタ♀",
    "game": "Just Chatting",
    "created": "2026-07-15T12:22:45Z",
-   "views": 9,
+   "views": 10,
    "duration": 14.6,
    "creator": "clawsw12",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/594998ce-d890-4840-80bd-1d915df3707f/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -798,7 +788,7 @@
    "title": "義眼(まぶたピクピク)",
    "game": "Just Chatting",
    "created": "2026-07-15T12:00:50Z",
-   "views": 355,
+   "views": 359,
    "duration": 25.2,
    "creator": "sasamikatu1462",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f41d0f6d-90d3-48ec-a232-723a18df3b7c/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -908,7 +898,7 @@
    "title": "シゲの眉間でクンニ塾！？",
    "game": "Just Chatting",
    "created": "2026-07-15T02:12:48Z",
-   "views": 716,
+   "views": 726,
    "duration": 59.9,
    "creator": "greennoah2",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f56e7cad-a501-4d0c-a63f-05572e23205c/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -918,7 +908,7 @@
    "title": "ストレートネック予防ストレッチ2",
    "game": "Just Chatting",
    "created": "2026-07-15T02:04:58Z",
-   "views": 110,
+   "views": 111,
    "duration": 56.2,
    "creator": "greennoah2",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3f0519b2-fe3d-4925-b4b6-a3b5d435162a/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -928,7 +918,7 @@
    "title": "ストレートネック予防ストレッチ松",
    "game": "Just Chatting",
    "created": "2026-07-15T02:03:46Z",
-   "views": 92,
+   "views": 93,
    "duration": 59.9,
    "creator": "greennoah2",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c5657452-c189-4003-9b9e-99353597c72b/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -998,7 +988,7 @@
    "title": "コードレッドwww",
    "game": "ARK: Survival Ascended",
    "created": "2026-07-13T17:18:43Z",
-   "views": 647,
+   "views": 655,
    "duration": 43.3,
    "creator": "くっぱじゅにあ",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/5ea80d1d-9c69-4c78-900c-67677cb80994/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -1068,7 +1058,7 @@
    "title": "冥殺ノクス死亡シーン",
    "game": "ARK: Survival Ascended",
    "created": "2026-07-13T15:20:18Z",
-   "views": 1844,
+   "views": 1880,
    "duration": 59.9,
    "creator": "すうううが",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/1406c0b2-ffc0-43f5-b096-976ad98a73d7/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -1098,7 +1088,7 @@
    "title": "ﾀﾞﾏｽｶｽのブローバック命名シーン",
    "game": "ARK: Survival Ascended",
    "created": "2026-07-13T14:11:31Z",
-   "views": 1557,
+   "views": 1601,
    "duration": 21.5,
    "creator": "すうううが",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/b0da200f-c384-49cd-8d0a-f88051846c15/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -1108,7 +1098,7 @@
    "title": "様子がおかしいママスカスの命名",
    "game": "ARK: Survival Ascended",
    "created": "2026-07-13T14:09:39Z",
-   "views": 858,
+   "views": 867,
    "duration": 57.2,
    "creator": "素朴",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/97096935-1f1f-43a9-a451-d4e35b7a35e3/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -1118,7 +1108,7 @@
    "title": "トラップ",
    "game": "ARK: Survival Ascended",
    "created": "2026-07-13T14:09:33Z",
-   "views": 229,
+   "views": 233,
    "duration": 30,
    "creator": "愛を歌詩",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/75d947aa-9b50-40b2-aa5d-93631ba686f8/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -1198,7 +1188,7 @@
    "title": "ドパが出てイグー松本",
    "game": "ARK: Survival Ascended",
    "created": "2026-07-13T12:20:25Z",
-   "views": 426,
+   "views": 433,
    "duration": 20.4,
    "creator": "すうううが",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/02f9fc5d-105e-413e-b149-729dbfccfa60/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -1218,7 +1208,7 @@
    "title": "f",
    "game": "ARK: Survival Ascended",
    "created": "2026-07-13T11:13:25Z",
-   "views": 19,
+   "views": 20,
    "duration": 24.8,
    "creator": "どす",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/fc9277ec-80a1-41f6-a1cd-40fc9c9ccfe6/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -1268,7 +1258,7 @@
    "title": "ドラゴンボール松本",
    "game": "Just Chatting",
    "created": "2026-07-13T10:39:15Z",
-   "views": 129,
+   "views": 130,
    "duration": 59.9,
    "creator": "greennoah2",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f189d983-3b9f-4e2f-ab08-e055a8106550/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -1298,20 +1288,10 @@
    "title": "演者松",
    "game": "ARK: Survival Ascended",
    "created": "2026-07-12T18:59:02Z",
-   "views": 5,
+   "views": 6,
    "duration": 32.7,
    "creator": "Zoolongtea",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/58b6fa2c-0dbc-4c8c-995d-14c21e2a01cb/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
-   "id": "RelentlessAmorphousCattleImGlitch-5RuomivH9H-DsWw6",
-   "title": "ドパ松",
-   "game": "ARK: Survival Ascended",
-   "created": "2026-07-12T18:56:04Z",
-   "views": 15,
-   "duration": 30,
-   "creator": "Zoolongtea",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/69835f80-6b55-4828-8f37-2fe4caee049f/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "BillowingThankfulDuckPeteZaroll-XZxJosrkDLahZSEO",
@@ -1408,7 +1388,7 @@
    "title": "わざと凍死する松",
    "game": "ARK: Survival Ascended",
    "created": "2026-07-12T08:55:01Z",
-   "views": 671,
+   "views": 677,
    "duration": 59.9,
    "creator": "greennoah2",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/cc4e30f3-d48c-45e0-8bd6-ef3f86e4cd03/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -1438,7 +1418,7 @@
    "title": "高IQプレイ",
    "game": "ARK: Survival Ascended",
    "created": "2026-07-12T08:35:18Z",
-   "views": 253,
+   "views": 259,
    "duration": 38.2,
    "creator": "すうううが",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6419a891-7ce4-4cb4-8ba2-4ea30dd7beb4/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -1458,7 +1438,7 @@
    "title": "まさかの凍死松",
    "game": "ARK: Survival Ascended",
    "created": "2026-07-12T07:57:29Z",
-   "views": 335,
+   "views": 342,
    "duration": 48.7,
    "creator": "すうううが",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/70545704-7c41-4f93-b2e5-2e750d8933a3/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -1498,7 +1478,7 @@
    "title": "ジュラシックパーク松本",
    "game": "ARK: Survival Ascended",
    "created": "2026-07-12T07:08:11Z",
-   "views": 483,
+   "views": 492,
    "duration": 56.4,
    "creator": "すうううが",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/13caf728-a669-4ed2-aad4-d73c5dce491b/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -1588,7 +1568,7 @@
    "title": "キス待ち松",
    "game": "Just Chatting",
    "created": "2026-07-12T04:57:21Z",
-   "views": 11,
+   "views": 13,
    "duration": 25.9,
    "creator": "greennoah2",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/42f363fc-521c-4dbe-b45f-3ca3187ea22e/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -1674,16 +1654,6 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d9420c97-eb2f-4006-9e09-b8f82be3336a/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
-   "id": "OutstandingFragileFriseeHassanChop-cPsgcIRTBy2fmg8d",
-   "title": "まずウインナー目玉焼き丼という浪漫メシ食うぞ放送！",
-   "game": "Just Chatting",
-   "created": "2026-07-12T03:59:41Z",
-   "views": 2,
-   "duration": 30,
-   "creator": "mattu118",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/cabbffd7-6446-477c-a599-02289bf07d43/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
    "id": "DirtyTsundereKathyArsonNoSexy-pUlPbq_Ka_ZSM9zB",
    "title": "まずウインナー目玉焼き丼という浪漫メシ食うぞ放送！",
    "game": "Just Chatting",
@@ -1714,6 +1684,16 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/82d7eb27-bed7-47f4-9b6d-080f13bfb254/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
+   "id": "BombasticPoisedBillMau5-eAlsQDWwjf2tyQq2",
+   "title": "みんな〇ったぞー！",
+   "game": "ARK: Survival Ascended",
+   "created": "2026-07-11T18:14:17Z",
+   "views": 15,
+   "duration": 17.6,
+   "creator": "ふぁいや",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/1115ece1-657f-4c18-9987-15c17d0fad9e/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
    "id": "CalmCovertClipsdadBuddhaBar-S1Rfv4V0j0VQczQv",
    "title": "若干のガビ松",
    "game": "ARK: Survival Ascended",
@@ -1732,6 +1712,16 @@
    "duration": 32.6,
    "creator": "八メ潮干狩り",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/14435382-0dd9-4469-aab1-fb164c80c9af/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
+   "id": "CoweringDarlingTortoiseCharlieBitMe-fTT39Z8C_D_E22gh",
+   "title": "よさこい松",
+   "game": "ARK: Survival Ascended",
+   "created": "2026-07-11T15:19:11Z",
+   "views": 6,
+   "duration": 30,
+   "creator": "イモトアッカーマン",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/03216ee4-3a35-4cfe-9abd-e77601f37f72/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "DignifiedHeadstrongSquirrelPartyTime-4jHa_yVPG0mAV3pH",
@@ -1778,7 +1768,7 @@
    "title": "ダマスカス「あーきも」",
    "game": "ARK: Survival Ascended",
    "created": "2026-07-11T12:32:11Z",
-   "views": 250,
+   "views": 260,
    "duration": 6.1,
    "creator": "ふぁいや",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/23575e68-753f-4b84-a506-6026e0661bdd/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -1818,7 +1808,7 @@
    "title": "「う〇こちゃんが昼にARKやりたいねって言ってるぞ」というコメを見たときの布団ちゃん",
    "game": "Just Chatting",
    "created": "2026-07-11T08:47:15Z",
-   "views": 13311,
+   "views": 13315,
    "duration": 59.9,
    "creator": "kyouyuuyoudesu",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/44ef3cbe-32c7-4870-89b2-77b4ad4619b0/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -2764,6 +2754,36 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/e29e721f-c04b-401a-af95-923b7ac35553/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
+   "id": "RelatedSmallHerringDBstyle-NmnwwMBsg2yTH7Ib",
+   "title": "AI、やさぐれる",
+   "game": "Minecraft",
+   "created": "2026-07-09T17:26:50Z",
+   "views": 6,
+   "duration": 48.9,
+   "creator": "gouf_b3",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/186bff37-3729-47f9-8348-059a77e5c256/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
+   "id": "DeafRoughWoodcockYee-yhE5AKZ5NL1afobj",
+   "title": "AIにイライラ",
+   "game": "Minecraft",
+   "created": "2026-07-09T17:22:34Z",
+   "views": 6,
+   "duration": 59.9,
+   "creator": "gouf_b3",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c2e22a53-bf0a-46b4-a509-5f0e8629e6cf/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
+   "id": "EncouragingCheerfulOcelotM4xHeh-SbDrg2hxPA50AunC",
+   "title": "AIに遊ばれるバ.カワキガ",
+   "game": "Minecraft",
+   "created": "2026-07-09T17:19:29Z",
+   "views": 6,
+   "duration": 59.9,
+   "creator": "gouf_b3",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/27c59595-358f-4d69-a173-02c41230cc64/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
    "id": "LaconicHonestStaplePipeHype-Nbix2myQsq81YcrR",
    "title": "誰！？",
    "game": "Minecraft",
@@ -2834,16 +2854,6 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/589ea6f4-6df3-4c24-a526-b4c5df5ef4e7/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
-   "id": "ResoluteDaintyHawkDxCat-XsGYulPaVn1RG52v",
-   "title": "レイレイの上司登場",
-   "game": "Minecraft",
-   "created": "2026-07-09T17:08:00Z",
-   "views": 3,
-   "duration": 30,
-   "creator": "Zoolongtea",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/21962001-e0fc-4c07-9323-66171972efd0/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
    "id": "DifficultPoliteAubergineKappaPride-F_Ym10XITzaMR2Jb",
    "title": "レイレイの声が急に低くなってビビる松",
    "game": "Minecraft",
@@ -2854,6 +2864,16 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/b7553608-fbdb-4135-ac7d-03df6dbdfdee/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
+   "id": "KitschyFaintMagpieTwitchRaid-jmnUQl8GSzxhSitA",
+   "title": "㊙️",
+   "game": "Minecraft",
+   "created": "2026-07-09T17:07:17Z",
+   "views": 6,
+   "duration": 30,
+   "creator": "fatman777777",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/29a07f77-3c5e-459e-b84e-47d4729a16b3/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
    "id": "KawaiiSwissSardineNononoCat-GZyqEzFCFB_-D25C",
    "title": "AIにバ力にされる布団ちゃん",
    "game": "Minecraft",
@@ -2862,6 +2882,16 @@
    "duration": 50.6,
    "creator": "らいにゃん",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6442325f-6ef5-439a-ad92-f835bebaac8b/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
+   "id": "StrangeTubularGarageBloodTrail-3ltQWQ5_8Y_6aggN",
+   "title": "AIに翻弄される",
+   "game": "Minecraft",
+   "created": "2026-07-09T17:03:52Z",
+   "views": 6,
+   "duration": 59.9,
+   "creator": "gouf_b3",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c4cb167c-fe4d-47e6-bbd2-432522fd302f/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "SmellyVenomousTrayUnSane-OxVM5xVXIE9rEYCp",
@@ -2894,6 +2924,16 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ba7b0894-58d4-41a6-9d7a-3cb387bddf45/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
+   "id": "BrainyAwkwardOtterWoofer-PVshZyTBS5_w80Y1",
+   "title": "バ.カワキガ、AIに舐められる",
+   "game": "Minecraft",
+   "created": "2026-07-09T16:58:53Z",
+   "views": 1,
+   "duration": 59.9,
+   "creator": "gouf_b3",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/dfdf4c51-8b33-4621-96b9-c48f8d898d10/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
    "id": "EasyInexpensiveGarbageTwitchRaid-bNKxwmN9aTwMGgrq",
    "title": "バ.カワキガ、AIにゴミを作らされる",
    "game": "Minecraft",
@@ -2922,6 +2962,16 @@
    "duration": 59.9,
    "creator": "greennoah2",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6ef10138-59f3-49fc-8222-2717e19308c1/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
+   "id": "BashfulHealthyCamelNononoCat-w5uiQgKx8G2bIZ3P",
+   "title": "AIに翻弄される",
+   "game": "Minecraft",
+   "created": "2026-07-09T16:51:27Z",
+   "views": 1,
+   "duration": 56.6,
+   "creator": "gouf_b3",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/627e44e0-8e2b-4f10-b6b9-81e8b1e207b3/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "UninterestedEnergeticJamHotPokket-09XgJ6GGOsBdfv36",
@@ -3008,7 +3058,7 @@
    "title": "あ",
    "game": "Just Chatting",
    "created": "2026-07-09T15:40:11Z",
-   "views": 2070,
+   "views": 2071,
    "duration": 29.9,
    "creator": "kokko9559",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d358df35-bd41-4dec-b112-3c92f7804aa9/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -3354,6 +3404,16 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/e6d02236-2dff-4b58-9d95-f7e5d99d48c3/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
+   "id": "HardOptimisticHumanKappa-T7Nd_jjC2Qb_by0r",
+   "title": "ㅤ⠀",
+   "game": "Rhythm Heaven Groove",
+   "created": "2026-07-08T08:44:04Z",
+   "views": 6,
+   "duration": 59.9,
+   "creator": "ainkyadesu",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ddcd794a-5cff-4c83-9a35-897c78bbf102/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
    "id": "CrowdedAwkwardPelicanSwiftRage-0Cai5lEZ1Spig76Y",
    "title": "ㅤ⠀",
    "game": "Rhythm Heaven Groove",
@@ -3432,16 +3492,6 @@
    "duration": 15.2,
    "creator": "tori34v",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0613be4d-936a-4b5d-9e39-b4f794baa4d2/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
-   "id": "StormyNaiveMagpieBIRB-aUU4I5S1qYkJxvOi",
-   "title": "や",
-   "game": "Rhythm Heaven Groove",
-   "created": "2026-07-07T13:19:44Z",
-   "views": 1,
-   "duration": 29.9,
-   "creator": "kuma252522",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/deecf16d-b582-4f24-b263-57b2f9b80ea6/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "FamousBlushingIguanaNomNom-uRSalMdmZrb8vB7R",
@@ -3548,7 +3598,7 @@
    "title": "イラマチャオに使って良いよー",
    "game": "Rhythm Heaven Groove",
    "created": "2026-07-07T11:50:24Z",
-   "views": 1227,
+   "views": 1228,
    "duration": 23.2,
    "creator": "greennoah2",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/9c430334-8441-45c3-bc7f-4b9df0d459b0/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -3592,6 +3642,16 @@
    "duration": 30.7,
    "creator": "tkr_st",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/fd39db72-3b21-45e6-9c7f-4cd16cf70559/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
+   "id": "ProductiveStrongJalapenoOptimizePrime-2WtF94QO9kW4E9vi",
+   "title": "なんて？",
+   "game": "Rhythm Heaven Groove",
+   "created": "2026-07-07T11:27:16Z",
+   "views": 6,
+   "duration": 23.7,
+   "creator": "tkr_st",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/af76787f-8744-4a84-9895-c7889da20495/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "SolidStylishOxPeteZaroll-y9j7OjeOhK4l4Tap",
@@ -3658,7 +3718,7 @@
    "title": "先生ぇぇえええええええええええ！！？？",
    "game": "ELDEN RING NIGHTREIGN",
    "created": "2026-07-07T08:40:28Z",
-   "views": 778,
+   "views": 779,
    "duration": 23.6,
    "creator": "miyomi344",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f6dfc670-eb32-49f2-ac99-e39dc6c56e8c/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -3678,7 +3738,7 @@
    "title": "落ちる要素",
    "game": "ELDEN RING NIGHTREIGN",
    "created": "2026-07-07T08:39:57Z",
-   "views": 439,
+   "views": 440,
    "duration": 59.9,
    "creator": "もっこ1018",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/976e34fc-59b2-43ed-95e4-932c221daf2f/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -3808,7 +3868,7 @@
    "title": "このコードは使用済みです",
    "game": "Just Chatting",
    "created": "2026-07-07T03:28:11Z",
-   "views": 3454,
+   "views": 3456,
    "duration": 49.2,
    "creator": "すうううが",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f560a004-0dab-4e44-bf3a-afc0b18d4484/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -3938,7 +3998,7 @@
    "title": "【悲報】チャーシュー即死",
    "game": "Minecraft",
    "created": "2026-07-06T16:06:22Z",
-   "views": 1271,
+   "views": 1272,
    "duration": 30.3,
    "creator": "素朴",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/1f135247-e416-42c2-b0b8-50b2a974a4b8/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -4088,7 +4148,7 @@
    "title": "シゲ「あのー✋️、私、蛇足さんのより大きいですよ。っぱああああああああああああん！！」",
    "game": "Just Chatting",
    "created": "2026-07-06T11:43:32Z",
-   "views": 5617,
+   "views": 5620,
    "duration": 49.4,
    "creator": "greennoah2",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/34b5f217-0cfe-45f3-ab87-26b9df543fdb/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -4208,7 +4268,7 @@
    "title": "退勤の松",
    "game": "Paranormal HK",
    "created": "2026-07-05T16:30:56Z",
-   "views": 12,
+   "views": 13,
    "duration": 30,
    "creator": "MAKI2735",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/5ba7c861-316b-4f4a-b809-c0f74a47df9c/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -4228,7 +4288,7 @@
    "title": "怪奇現象",
    "game": "Paranormal HK",
    "created": "2026-07-05T16:23:32Z",
-   "views": 4,
+   "views": 5,
    "duration": 29.9,
    "creator": "MAKI2735",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6eb43a0e-19f5-47e7-b1f3-a2837715183b/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -4478,7 +4538,7 @@
    "title": "イングリット査定",
    "game": "Street Fighter 6",
    "created": "2026-07-04T15:57:23Z",
-   "views": 1712,
+   "views": 1713,
    "duration": 8.4,
    "creator": "takanishi_gi",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/5df23dd1-95f3-408d-bb03-a694fb19fd32/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -4594,6 +4654,16 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ef959b02-a54d-4cdb-8591-2ac55dfe37e7/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
+   "id": "CarelessDifficultUdonBIRB-XuWs1NlsNz3_Q-yt",
+   "title": "義眼",
+   "game": "Minecraft",
+   "created": "2026-07-04T08:41:26Z",
+   "views": 6,
+   "duration": 31.1,
+   "creator": "gouf_b3",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/1cfd4174-9c0a-45a4-9ed4-7e339cc3c91c/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
    "id": "EntertainingHyperMinkBCWarrior-Uz7wEbGKfRTqLe-q",
    "title": "🐷を窒息死させる布団ちゃん",
    "game": "Minecraft",
@@ -4624,16 +4694,6 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/eaf4c67b-7b31-479e-9be4-cb422d84e773/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
-   "id": "ScaryOptimisticFishThunBeast-vC9b8IaYAsYlQhAc",
-   "title": "布団ちゃん　物忘れ",
-   "game": "Minecraft",
-   "created": "2026-07-04T05:02:24Z",
-   "views": 6,
-   "duration": 24.7,
-   "creator": "瀬戸内弱小",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/1a8e86e7-fb92-4920-99bf-d832a303442d/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
    "id": "LittleTalentedSwallowItsBoshyTime-HK-UgSeNvV_Bopzn",
    "title": "毒ガスに頭をやられてしまったものの末路",
    "game": "Minecraft",
@@ -4652,6 +4712,16 @@
    "duration": 33.8,
    "creator": "最初はぐー",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/8dab5049-60a3-4e2b-b915-53aaad27ea40/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
+   "id": "GenerousExcitedRaccoonSaltBae-keFQnF8ralI9rX55",
+   "title": "見失う男",
+   "game": "Minecraft",
+   "created": "2026-07-04T05:01:31Z",
+   "views": 5,
+   "duration": 20.6,
+   "creator": "s_p_taro",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/22b9a4f0-aade-495e-930a-888c192cbeee/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "SmilingAmazonianAlpacaTBCheesePull-l-8QMM7ix9DoK6Ml",
@@ -4878,7 +4948,7 @@
    "title": "マヌケな落下4",
    "game": "ELDEN RING NIGHTREIGN",
    "created": "2026-07-03T06:53:12Z",
-   "views": 763,
+   "views": 764,
    "duration": 20,
    "creator": "kinako1192",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d5047eff-cf8e-4051-947d-6d1089990174/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -5012,26 +5082,6 @@
    "duration": 30,
    "creator": "q_a_k_i_",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/da9accff-7b1b-41aa-9228-1bf50505ba24/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
-   "id": "FaithfulGrossPidgeonMingLee-YbCvKfSz-VOs5lP2",
-   "title": "おならたすかる",
-   "game": "Minecraft",
-   "created": "2026-07-02T16:19:12Z",
-   "views": 6,
-   "duration": 4.9,
-   "creator": "tkr_st",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/86f9cd38-1903-4e68-a010-770fea432b42/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
-   "id": "IntelligentTsundereJuiceKreygasm-96Rvkf36Oht2wdRp",
-   "title": "突然イク松本",
-   "game": "Minecraft",
-   "created": "2026-07-02T15:19:27Z",
-   "views": 6,
-   "duration": 30,
-   "creator": "Charles_1170",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/e30d2b65-99ce-4dc7-ab34-e113164c8d9e/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "BlitheSavageStinkbugBabyRage-QoSl2U5f4Hqz7yll",
@@ -5174,6 +5224,16 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ec97fd44-6bf3-45b6-a7d5-224a42838572/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
+   "id": "BitterEncouragingShallotMoreCowbell-_TM73T9_TXt85ABC",
+   "title": "お母さんのおっぱ",
+   "game": "Just Chatting",
+   "created": "2026-07-02T05:10:50Z",
+   "views": 13,
+   "duration": 59.9,
+   "creator": "gouf_b3",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/221f8729-0bf5-454c-adb0-89c98e7b580b/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
    "id": "TameGlutenFreeDunlinWutFace-Z6yELqRiJiwI9Lev",
    "title": "指チュパ",
    "game": "Minecraft",
@@ -5278,7 +5338,7 @@
    "title": "というこの男、このあと衝撃の結末を迎えます。",
    "game": "Minecraft",
    "created": "2026-07-02T02:52:41Z",
-   "views": 1580,
+   "views": 1581,
    "duration": 31.4,
    "creator": "素朴",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d4d62b9d-7111-4c16-8c86-900e56df2b68/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -5454,16 +5514,6 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/54e2ff34-8fc8-45a3-bb96-4f3d49ec11d8/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
-   "id": "DepressedSaltyIcecreamDatSheffy-gwdrPUpQeInzpUjd",
-   "title": "その話すち",
-   "game": "Just Chatting",
-   "created": "2026-07-01T11:14:13Z",
-   "views": 13,
-   "duration": 59.9,
-   "creator": "tkr_st",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/b043f860-995c-4cbf-b592-1acb59dd1e69/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
    "id": "RudeCoweringArtichokePhilosoraptor-MVqGj6ClA_KXu5x3",
    "title": "発覚",
    "game": "Just Chatting",
@@ -5604,16 +5654,6 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/1e72c35a-0ac9-4b01-b655-4fd4b0650960/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
-   "id": "JazzySpunkyRadicchioDogFace-mXxWNm6b0TrLQ_R9",
-   "title": "騙すカス",
-   "game": "ELDEN RING NIGHTREIGN",
-   "created": "2026-07-01T05:12:10Z",
-   "views": 6,
-   "duration": 16.3,
-   "creator": "mskmmm",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/058797ec-5dd6-454c-bb7b-ff6298f95b4c/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
    "id": "CaringQuaintTirePrimeMe-c58TZk-Z90ehKf0o",
    "title": "月額3000円",
    "game": "ELDEN RING NIGHTREIGN",
@@ -5662,16 +5702,6 @@
    "duration": 59.9,
    "creator": "greennoah2",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/67db9dfc-8797-4c68-a468-0ff3af0da365/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
-   "id": "FurryBumblingHornetMingLee-JcLmCv4uajWBAeeg",
-   "title": "かます",
-   "game": "Just Chatting",
-   "created": "2026-07-01T03:38:03Z",
-   "views": 6,
-   "duration": 32,
-   "creator": "po1xg",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/803ba809-47c7-49ef-b9d9-3e7889b4c1b4/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "ProudModernDadRuleFive-14yT_Pw06NvIfSEv",
@@ -5862,6 +5892,16 @@
    "duration": 56.2,
    "creator": "かなめもちぃ",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/73263b8b-5ccb-4e5f-a11b-7df4154210ff/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
+   "id": "GrotesqueVainWatercressOMGScoots-NlHFtwFq2Mip4UUF",
+   "title": "口臭せくろす！？",
+   "game": "Just Chatting",
+   "created": "2026-06-30T12:52:10Z",
+   "views": 11,
+   "duration": 32.3,
+   "creator": "tkr_st",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/5f84adb1-fbac-4db5-8b54-49d8cebf7c28/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "SassyLightMarjoramEagleEye-OkSm7WB9ULnM7gzg",
@@ -6134,6 +6174,16 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/81300160-f9e6-486e-8d67-f7491791315c/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
+   "id": "SnappyAbstemiousPotatoFreakinStinkin-msZUCmiUdR14sw2E",
+   "title": "で",
+   "game": "Just Chatting",
+   "created": "2026-06-29T12:38:59Z",
+   "views": 5,
+   "duration": 30,
+   "creator": "kuma252522",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/5e081dc3-0482-4e16-aed8-b7d81e4b2306/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
    "id": "ThirstySpunkyScallionPipeHype-smjUOQZJLop5VMu8",
    "title": "いざラーメンショップへ！久々の遠出でワクワクするナ！！！",
    "game": "Just Chatting",
@@ -6244,16 +6294,6 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d838e1a3-52e1-49f2-abf2-7a427baf7c7e/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
-   "id": "ViscousBoredPandaSeemsGood-sxaSvqHWRHEQUFrU",
-   "title": "はい！はい！はいはいはい！",
-   "game": "Just Chatting",
-   "created": "2026-06-29T12:03:42Z",
-   "views": 5,
-   "duration": 30.5,
-   "creator": "ぐらすさん",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/8ebf8a73-8482-476a-8fd7-ddd256380117/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
    "id": "RacyEsteemedSaladSwiftRage-a2GCIG_rfrtDmxF1",
    "title": "感謝のハイハイダンス",
    "game": "Just Chatting",
@@ -6268,7 +6308,7 @@
    "title": "ハイハイダンス牛久結束店",
    "game": "Just Chatting",
    "created": "2026-06-29T12:02:14Z",
-   "views": 1531,
+   "views": 1532,
    "duration": 59.9,
    "creator": "とっし一",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/312a3871-43b6-4fce-a00f-d27c3a06d972/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -6294,6 +6334,16 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ffddb38f-d133-4915-b335-19464a9318d9/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
+   "id": "SmilingDiligentRatTakeNRG-epd0In_XjEJu-Hoz",
+   "title": "ハイハイダンス2026",
+   "game": "Just Chatting",
+   "created": "2026-06-29T12:01:19Z",
+   "views": 6,
+   "duration": 59.9,
+   "creator": "gouf_b3",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/e7f36dba-9ada-4c0e-8f87-4e8040a95a22/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
    "id": "KnottyBumblingSparrowTwitchRaid-lCycbXrjLFmpBoIm",
    "title": "あ",
    "game": "Just Chatting",
@@ -6312,6 +6362,16 @@
    "duration": 30,
    "creator": "Loid_cc",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c5418ce0-cebb-4a05-af08-31d8d9232d68/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
+   "id": "SpikyMushyChickenTebowing-MOT4RoUDpEkpvHDU",
+   "title": "ラーメンのりお寿司義眼",
+   "game": "Just Chatting",
+   "created": "2026-06-29T11:37:51Z",
+   "views": 11,
+   "duration": 40,
+   "creator": "murasak11ro",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0078d410-4559-428f-937d-7b8d721ca657/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "BigVainSkunkBlargNaut-SeAJTydkUDzLn6L6",
@@ -6438,7 +6498,7 @@
    "title": "ラーショ店員「梨民総大将に来て頂きましてありがとうございます！」",
    "game": "Just Chatting",
    "created": "2026-06-29T10:37:24Z",
-   "views": 1785,
+   "views": 1786,
    "duration": 48.3,
    "creator": "ミャロンタクシー",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/17fd1438-39d4-407b-a593-7b1c0a99457b/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -6452,16 +6512,6 @@
    "duration": 37.8,
    "creator": "gouf_b3",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a0ceaf50-9fcd-4b15-8d12-e763eb53d2eb/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
-   "id": "ThankfulEnjoyableWaspFunRun-uVK7vIG35SrCtb-Q",
-   "title": "梨民総大将",
-   "game": "Just Chatting",
-   "created": "2026-06-29T10:35:55Z",
-   "views": 6,
-   "duration": 29.9,
-   "creator": "てきすと",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/38e93c26-6983-437c-b504-7b0558c67fab/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "TrustworthyDarlingSnoodRalpherZ-MpHT69fwf5UcoOkP",
@@ -6502,6 +6552,16 @@
    "duration": 42.7,
    "creator": "ksgmks5555",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f16bffc1-b878-4c5a-9aed-714f20eb987e/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
+   "id": "RealImportantLettuceArsonNoSexy-HAz91N9U0Twa5eEU",
+   "title": "ほうれんそう",
+   "game": "Just Chatting",
+   "created": "2026-06-29T09:09:18Z",
+   "views": 11,
+   "duration": 18.6,
+   "creator": "anyo912",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/2ad2a422-21ea-40da-86fc-f988f090b6c8/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "TangentialBovineSlothDxCat-JXrZyluYkpeh3M06",
@@ -6568,7 +6628,7 @@
    "title": "犯人",
    "game": "Just Chatting",
    "created": "2026-06-29T08:19:30Z",
-   "views": 19563,
+   "views": 19564,
    "duration": 30,
    "creator": "ぱいぱい牌",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c28cbd28-6a24-4707-9593-93a471c75ff9/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -6618,7 +6678,7 @@
    "title": "オオカワウソ🐸",
    "game": "Just Chatting",
    "created": "2026-06-29T07:15:20Z",
-   "views": 3212,
+   "views": 3213,
    "duration": 6.2,
    "creator": "greennoah2",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/1790cd45-c425-4dfd-94fb-0ffec23d812d/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -6698,7 +6758,7 @@
    "title": "神秘の海ゾーンに響く謎の喘ぎ声",
    "game": "Just Chatting",
    "created": "2026-06-29T05:58:57Z",
-   "views": 1424,
+   "views": 1425,
    "duration": 40,
    "creator": "ミャロンタクシー",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7f749bb3-cc38-4d15-bf02-2cdc367288dd/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -6878,7 +6938,7 @@
    "title": "【ついに登場】『『『大充電器』』』",
    "game": "Just Chatting",
    "created": "2026-06-29T03:55:11Z",
-   "views": 2091,
+   "views": 2092,
    "duration": 30,
    "creator": "ミャロンタクシー",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/16e0212a-856e-4a56-8826-f7f2a8e8915a/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -7018,7 +7078,7 @@
    "title": "よしひさ　追っかけ漏れ",
    "game": "Just Chatting",
    "created": "2026-06-29T01:53:03Z",
-   "views": 3684,
+   "views": 3685,
    "duration": 19.7,
    "creator": "ミャロンタクシー",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c9407c3f-e86a-40a8-b72b-87e71a04860a/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -7078,7 +7138,7 @@
    "title": "アンコウ鍋でコンボイ！",
    "game": "Just Chatting",
    "created": "2026-06-28T13:54:21Z",
-   "views": 1297,
+   "views": 1298,
    "duration": 18.4,
    "creator": "うおマニア",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/8d4687e7-eef0-4f1b-bcd2-953a792ede09/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -7142,16 +7202,6 @@
    "duration": 30,
    "creator": "鹿島市娘",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/9251e9b2-8911-4330-92e4-892e59153898/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
-   "id": "AltruisticColdbloodedDolphinGingerPower-QyUAB-bQy2ymBWuZ",
-   "title": "ｊｈｇ",
-   "game": "Just Chatting",
-   "created": "2026-06-28T12:51:17Z",
-   "views": 19,
-   "duration": 30,
-   "creator": "notmoyashi",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c9ff400c-8c67-4f27-9145-358f5e44fd6c/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "ExuberantMagnificentChimpanzeePMSTwin-pND1o4120BvYTyKi",
@@ -7258,7 +7308,7 @@
    "title": "ピグリン要塞でボコボコ松",
    "game": "Minecraft",
    "created": "2026-06-27T15:56:05Z",
-   "views": 1533,
+   "views": 1534,
    "duration": 17.5,
    "creator": "すうううが",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/26c64087-6262-4fef-94a2-a760ab743640/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -7814,16 +7864,6 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/cebeac03-0abe-4182-89b0-f61406700aeb/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
-   "id": "CooperativeInspiringCamelRitzMitz-4MmVc4zR3q8obZXH",
-   "title": "松五重奏『Very Very Very / I.O.I』Nizi Project cover",
-   "game": "Just Chatting",
-   "created": "2026-06-26T11:19:29Z",
-   "views": 6,
-   "duration": 59.9,
-   "creator": "ようつべ犬",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c607ff24-357d-426f-8ad2-6314304682c1/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
    "id": "OpenSteamyWaspCopyThis-EmNoFMke_88MMm0D",
    "title": "シン・松本五重奏",
    "game": "Just Chatting",
@@ -7904,14 +7944,14 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/529bb044-95a6-4bca-ad5b-12ce2f3e0564/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
-   "id": "FilthyDirtyKimchiLitty-3UN9Qf4k0cxlStqA",
-   "title": "松本４重奏(失敗)",
+   "id": "SolidNiceGarageArgieB8--M6_7MW7iPi5VwIX",
+   "title": "シンクロ韓国おじさん２０２６",
    "game": "Just Chatting",
-   "created": "2026-06-26T10:26:46Z",
-   "views": 6,
+   "created": "2026-06-26T10:26:20Z",
+   "views": 3,
    "duration": 30,
-   "creator": "3333s1e",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0ad289be-c456-4ab0-83dd-869ee502919d/landscape/thumb/thumb-0000000000-480x272.jpg"
+   "creator": "クンちゃ",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a610c85a-860b-4db8-a64b-ca20a842b4b6/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "ShortMushyCarrotPlanking-UD7S5gJZL8LH7-0C",
@@ -8748,7 +8788,7 @@
    "title": "危ないまさお",
    "game": "Minecraft",
    "created": "2026-06-23T13:42:02Z",
-   "views": 1267,
+   "views": 1268,
    "duration": 11.6,
    "creator": "_民_",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a4bb536f-a223-4f03-a46c-294c1c55f786/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -8868,7 +8908,7 @@
    "title": "飲み確定しそーwきちーw",
    "game": "Splatoon 3",
    "created": "2026-06-22T17:20:40Z",
-   "views": 2592,
+   "views": 2593,
    "duration": 26.8,
    "creator": "田中らぼた餅_",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a3a45f68-a3c9-43cc-b5e1-5fe117bb07e5/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -8898,7 +8938,7 @@
    "title": "よしなま、デスア、クメ",
    "game": "Splatoon 3",
    "created": "2026-06-22T17:04:08Z",
-   "views": 15063,
+   "views": 15066,
    "duration": 4.9,
    "creator": "ふぁいや",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/5d7a65e8-5a6a-4e3c-98e1-1628f25048b9/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -9148,7 +9188,7 @@
    "title": "顎の配信について思うこと。",
    "game": "Splatoon 3",
    "created": "2026-06-22T13:05:06Z",
-   "views": 1260,
+   "views": 1261,
    "duration": 44.7,
    "creator": "おとて_",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/571ea7f1-f202-4b29-a21b-ba8c589936c1/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -9318,7 +9358,7 @@
    "title": "真相",
    "game": "Minecraft",
    "created": "2026-06-21T13:47:23Z",
-   "views": 1315,
+   "views": 1316,
    "duration": 9.1,
    "creator": "ranmaaaru",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/9d42c0cf-a1f3-4a83-b1f7-4811945512eb/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -9658,7 +9698,7 @@
    "title": "めちゃ最高だぜ！→5秒後、、、",
    "game": "Minecraft",
    "created": "2026-06-21T08:44:12Z",
-   "views": 1624,
+   "views": 1626,
    "duration": 54.6,
    "creator": "しなだぞ",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/52cc4eea-8f58-4964-909a-e28975bd0976/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -9974,6 +10014,16 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/e74ae5f0-7af8-4c0f-97a4-19d96381dfa4/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
+   "id": "CrypticCreativeGiraffeFeelsBadMan-bDmKpIzzFdV9UHvm",
+   "title": "ち〇ぽの歌2",
+   "game": "Minecraft",
+   "created": "2026-06-20T13:01:28Z",
+   "views": 4,
+   "duration": 59.9,
+   "creator": "dnt_mind",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/56cba704-3646-41d4-bc93-6cf172f10fba/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
    "id": "TriangularEncouragingFerretMcaT-RXUWf3_TyFvsfSdd",
    "title": "ﾎﾟﾛﾝﾎﾟﾛﾝﾎﾟﾛﾝ",
    "game": "Minecraft",
@@ -9982,16 +10032,6 @@
    "duration": 59.9,
    "creator": "rocky1523",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/01532c30-bfa3-47af-af34-67aeb1cd51f7/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
-   "id": "KindBlindingDaikonWholeWheat-leGP0kDbJO2kNKBB",
-   "title": "高音ちんP",
-   "game": "Minecraft",
-   "created": "2026-06-20T12:57:50Z",
-   "views": 4,
-   "duration": 59.9,
-   "creator": "catora26",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/27ab7004-94ec-4756-88c0-83d5c4d83b85/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "BloodySuccessfulRabbitChefFrank-WI2XzQxodfJQSYTG",
@@ -11724,6 +11764,16 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ab3b15b0-a590-45ad-8907-7840375c13c9/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
+   "id": "CleanKawaiiPieAliens-nngcQbFs0a6o6D8L",
+   "title": "自分の所業が恥ずかしくて何も返せなかった",
+   "game": "Just Chatting",
+   "created": "2026-06-17T05:49:16Z",
+   "views": 3,
+   "duration": 55.6,
+   "creator": "泣き虫サクラ",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/2a80af7c-c2ff-45dc-8aa3-eba165d64ea3/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
    "id": "PiliableDelightfulHareFutureMan-fQjbjrwU44BMa5pm",
    "title": "あ",
    "game": "Just Chatting",
@@ -12338,7 +12388,7 @@
    "title": "布団、覚醒。",
    "game": "Splatoon 3",
    "created": "2026-06-14T10:27:04Z",
-   "views": 9669,
+   "views": 9670,
    "duration": 27.9,
    "creator": "ranmaaaru",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c5b8db93-7a27-4816-9e40-306a593bdda4/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -17428,7 +17478,7 @@
    "title": "ライトニング…砕けろ…",
    "game": "Dark and Darker",
    "created": "2026-05-20T10:04:09Z",
-   "views": 15797,
+   "views": 15798,
    "duration": 9.2,
    "creator": "YAMAWAY",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/1023432c-d909-41a4-9ba4-992820e000df/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -17698,7 +17748,7 @@
    "title": "むらまこ",
    "game": "Just Chatting",
    "created": "2025-10-20T13:10:28Z",
-   "views": 4632,
+   "views": 4633,
    "duration": 29.9,
    "creator": "マザコン胡椒少々",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/e2edd668-4ae3-480e-8143-c523cafc62f4/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -17718,7 +17768,7 @@
    "title": "タイミング噛み合いすぎる",
    "game": "Just Chatting",
    "created": "2025-10-20T13:01:22Z",
-   "views": 5818,
+   "views": 5819,
    "duration": 20.9,
    "creator": "no_smoking0_0",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/de12185e-11ba-412a-a167-e55c60dd206b/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -19398,7 +19448,7 @@
    "title": "「やばい、開いちまった！」",
    "game": "Rust",
    "created": "2025-07-26T19:08:23Z",
-   "views": 34953,
+   "views": 34961,
    "duration": 36,
    "creator": "yamada0yamada",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/941495c7-e447-4512-9dd2-0eb361ce1431/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -19998,7 +20048,7 @@
    "title": "恭一郎のレイドに怯える中ハリーしにダル絡みされ発狂する布団ちゃんwww",
    "game": "Rust",
    "created": "2025-07-26T17:28:08Z",
-   "views": 16230,
+   "views": 16231,
    "duration": 52.6,
    "creator": "くっぱじゅにあ",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/03988d9e-b504-4800-b8a8-406db50eb68a/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -20298,7 +20348,7 @@
    "title": "ドア閉め忘れ",
    "game": "Rust",
    "created": "2025-07-26T15:44:02Z",
-   "views": 50194,
+   "views": 50200,
    "duration": 30,
    "creator": "泣き虫サクラ",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/2a955445-fefd-4485-82c7-36c0824421a7/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -23138,7 +23188,7 @@
    "title": "エロマノン",
    "game": "Street Fighter 6",
    "created": "2025-05-10T04:15:53Z",
-   "views": 38825,
+   "views": 38833,
    "duration": 4.9,
    "creator": "sannji223",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/cb562181-49e8-486e-9156-0b1055b5e7c1/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -27588,7 +27638,7 @@
    "title": "かるびのポストに一喝する布団ちゃん",
    "game": "Puyo Puyo Tetris 2",
    "created": "2025-02-18T14:10:50Z",
-   "views": 27706,
+   "views": 27707,
    "duration": 57.2,
    "creator": "イケザエライダ",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/783f7c22-6e5f-4343-b93f-788c00f712dc/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -27882,16 +27932,6 @@
    "duration": 30,
    "creator": "rimnyan",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/15a5eace-892b-4640-b97e-35c61c70e5f1/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
-   "id": "CrypticRespectfulDiamond4Head-r_Bq3hMg3E2UVUcP",
-   "title": "ぷよテト初見",
-   "game": "",
-   "created": "2025-02-14T04:37:07Z",
-   "views": 1,
-   "duration": 30,
-   "creator": "yuuaddstu",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/19815e02-f2dc-4b9f-86bd-2ac6e7ec42f4/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "CrackyTubularMagpieWutFace-JgR13ol1ZLw13FG4",
@@ -29868,7 +29908,7 @@
    "title": "あ",
    "game": "Marvel Rivals",
    "created": "2025-01-15T08:13:02Z",
-   "views": 11151,
+   "views": 11152,
    "duration": 5,
    "creator": "suran120",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ec19e9c7-2ef0-451d-bace-7bbe70fbba4d/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -30318,7 +30358,7 @@
    "title": "シュガシュガおえちゃんに気圧される布団ちゃん",
    "game": "Street Fighter 6",
    "created": "2024-12-24T07:25:50Z",
-   "views": 8586,
+   "views": 8587,
    "duration": 21,
    "creator": "まんま2",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/160ae7a8-6734-4777-9a18-922d91616b77/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -34824,6 +34864,16 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a824c045-4a89-42ac-861e-874b01baae39/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
+   "id": "UgliestSavoryLapwingNotATK-vlGZ1tugOdohjNeb",
+   "title": "マゴさんと遊ぶ 禁煙は後日",
+   "game": "Carry The Glass",
+   "created": "2024-11-25T12:57:48Z",
+   "views": 3,
+   "duration": 30,
+   "creator": "ろいえる",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/417899d9-25ba-4652-849c-8a25340a06d7/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
    "id": "CautiousShakingNuggetsOSkomodo-hswSlQ1rMM6-XzM2",
    "title": "マゴさんと遊ぶ 禁煙は後日",
    "game": "Carry The Glass",
@@ -36532,6 +36582,16 @@
    "duration": 30,
    "creator": "どにゃ",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/4b0bc54c-fbd9-411e-a360-8022fca66e3a/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
+   "id": "GrossBlitheChickpeaUWot-I2N1FOKdqefzHD-Z",
+   "title": "a",
+   "game": "Street Fighter 6",
+   "created": "2024-11-16T15:46:46Z",
+   "views": 1,
+   "duration": 30,
+   "creator": "tar02134",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7303cd05-db43-488c-9034-7670453a4f1e/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "AuspiciousTalentedAirGuitarSpicyBoy-fVt6y-MogLIRDZk9",
@@ -41558,7 +41618,7 @@
    "title": "わいわい勝利の瞬間を見る全敗トリオ",
    "game": "Street Fighter 6",
    "created": "2024-10-24T13:13:06Z",
-   "views": 13840,
+   "views": 13841,
    "duration": 41.6,
    "creator": "むつき3",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/4aa2c034-3376-4064-acd9-d84203563456/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -41568,7 +41628,7 @@
    "title": "イケオジわいわい",
    "game": "Street Fighter 6",
    "created": "2024-10-24T13:01:24Z",
-   "views": 6425,
+   "views": 6426,
    "duration": 36,
    "creator": "むつき3",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d8a97971-a5a7-49ed-8419-d8f7507f6e82/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -41764,14 +41824,14 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6cf9dc8b-dc2c-4ee2-a545-b4b3af1aba0d/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
-   "id": "ExcitedCheerfulGarageGingerPower-xc5wriodzSNPvWUn",
-   "title": "試合中にちん〇この話をする三人",
+   "id": "ObliqueTenuousEagleNinjaGrumpy-oMhcBtPrq6IW97Fr",
+   "title": "CRスト６布団ちゃん視点",
    "game": "Street Fighter 6",
-   "created": "2024-10-24T10:11:42Z",
+   "created": "2024-10-24T10:11:37Z",
    "views": 1,
-   "duration": 60,
-   "creator": "rakusiyou",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/63664ae2-205a-4957-8011-8a3591faebb1/landscape/thumb/thumb-0000000000-480x272.jpg"
+   "duration": 26,
+   "creator": "sakuragi124",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/2b6f8c30-f551-446f-ab5c-e6cee60e4371/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "AttractiveAttractiveSoybeanChocolateRain-yhHRNUu6EJxW6H4U",
@@ -43518,7 +43578,7 @@
    "title": "CRスト６スクリム ※ホロ酔い",
    "game": "Street Fighter 6",
    "created": "2024-10-21T15:57:23Z",
-   "views": 1,
+   "views": 2,
    "duration": 28,
    "creator": "syogo1023",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/72f09b26-bfe3-4d89-9e05-f90d8302c9e8/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -45058,7 +45118,7 @@
    "title": "ジュリ道5日目 MR1650～",
    "game": "Street Fighter 6",
    "created": "2024-10-18T03:59:35Z",
-   "views": 579,
+   "views": 580,
    "duration": 30,
    "creator": "角砂糖192",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ee21b81c-35b2-46a5-8423-a4ce2cc2e464/landscape/thumb/thumb-0000000000-480x272.jpg"
@@ -45602,16 +45662,6 @@
    "duration": 30,
    "creator": "ocbslowburning",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/9db2ff32-6198-42d4-a88b-237d52d56722/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
-   "id": "HappyOptimisticQueleaLeeroyJenkins-LF4vzkjz_tdkVndN",
-   "title": "SFL同時視聴",
-   "game": "Street Fighter 6",
-   "created": "2024-10-09T00:42:32Z",
-   "views": 1,
-   "duration": 30,
-   "creator": "final_toki",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/2ada3a4c-f6ca-451e-9761-a5a31f1bf843/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "SourHeartlessWatermelonAliens-MT_Lcf7nI9Byt0Cv",
@@ -46244,6 +46294,16 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/50893f39-05fb-4566-8fad-d6469ed750ab/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
+   "id": "FitUninterestedYakBudStar-cLVCtlcV5OO7Jj9F",
+   "title": "ジュリ道三日目 マゴさんに教わる SFL同時視聴",
+   "game": "Street Fighter 6",
+   "created": "2024-10-08T17:34:42Z",
+   "views": 1,
+   "duration": 26,
+   "creator": "mokkorin_jp",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/344ab057-d664-4f00-8f2a-59b27f31d19f/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
    "id": "EnthusiasticCourageousJamMrDestructoid-gFb9k5tGxsm32plU",
    "title": "ジュリ道三日目 マゴさんに教わる SFL同時視聴",
    "game": "Street Fighter 6",
@@ -46272,16 +46332,6 @@
    "duration": 26,
    "creator": "mokkorin_jp",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/330e26f6-3b04-4954-9f76-772c4524b8d5/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
-   "id": "PoisedFantasticLionPastaThat-AHr-Bq6P176-5F7d",
-   "title": "ジュリ道三日目 マゴさんに教わる SFL同時視聴",
-   "game": "Street Fighter 6",
-   "created": "2024-10-08T17:34:31Z",
-   "views": 1,
-   "duration": 26,
-   "creator": "mokkorin_jp",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/76079324-3917-40b8-b83b-e2ad4a0b059f/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "FurtiveAssiduousAlmondMVGame-kCBqQmUGoFCoALUT",
@@ -49714,6 +49764,16 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/da9cd7fc-e7b4-44ff-bf1e-4189a2ebe07e/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
+   "id": "GiftedDeliciousGaurBuddhaBar-y15C42T-W-0-uwOF",
+   "title": "師匠に憧れた「ジュリ道」１.5日目 ～メンタルの回復～",
+   "game": "Street Fighter 6",
+   "created": "2024-10-04T14:44:47Z",
+   "views": 1,
+   "duration": 30,
+   "creator": "モジュラス",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d2ae8898-1a8e-4d6b-bbd9-19c8c654d88b/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
    "id": "ComfortableDirtyDootTwitchRaid-QKYM4fCH9zFz-G8n",
    "title": "師匠に憧れた「ジュリ道」１.5日目 ～メンタルの回復～",
    "game": "Street Fighter 6",
@@ -51012,6 +51072,16 @@
    "duration": 26,
    "creator": "saitama_net",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6a6205d5-b2df-490b-928f-32d96cd52ad3/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
+   "id": "TacitBlindingCoyoteCharlieBitMe-0aGainfAyMOZ_cQG",
+   "title": "絶望から希望のテリーへ  3日目",
+   "game": "Street Fighter 6",
+   "created": "2024-10-02T06:43:15Z",
+   "views": 1,
+   "duration": 30,
+   "creator": "takana69",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7a0e5be1-72f5-4e69-ae4c-da0b5a2abaf9/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "GrossAverageArugulaRalpherZ-HSMPAdD84q3oKPMj",
@@ -53144,16 +53214,6 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/53e538b6-0104-49e9-9c09-d18d41156447/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
-   "id": "OnerousElegantBisonKAPOW-nSSGIicl-ZB2NQbA",
-   "title": "絶望から希望のテリーへ",
-   "game": "Street Fighter 6",
-   "created": "2024-09-29T02:57:57Z",
-   "views": 1,
-   "duration": 30,
-   "creator": "tjwtpjttww",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/24a935f0-7430-4409-9db7-a2366f111a8f/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
    "id": "SillyTawdryBillPeteZarollTie-pPZAvTQyfrTUF5tB",
    "title": "絶望から希望のテリーへ",
    "game": "Street Fighter 6",
@@ -53682,16 +53742,6 @@
    "duration": 30,
    "creator": "takaotsu",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/fecc234b-d85a-4fe0-ab53-3f9bf9b2e519/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
-   "id": "BashfulCleverCakeVoteYea-AlILWMBFmX_4nfw3",
-   "title": "テスト",
-   "game": "Watch Parties",
-   "created": "2023-11-11T11:47:31Z",
-   "views": 1,
-   "duration": 30,
-   "creator": "stamya",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6939c600-51a7-4188-a0f9-676cfde75601/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "SavoryAdorableEggnogYouDontSay-pDPsIy_3U494VRXS",
@@ -54634,16 +54684,6 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/36250247-1f1c-48d1-ab78-f2d14a5967c1/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
-   "id": "ShinyHorribleOrcaRuleFive-A1bn2-GEACie82lM",
-   "title": "テスト",
-   "game": "Watch Parties",
-   "created": "2023-11-09T14:53:59Z",
-   "views": 1,
-   "duration": 28,
-   "creator": "銀子777",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7256e430-602a-4e49-ba5f-e3cd73abbd9f/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
    "id": "FlirtyAverageYakCclamChamp-SUScvX7ignVdhp5l",
    "title": "テスト",
    "game": "Watch Parties",
@@ -54672,6 +54712,16 @@
    "duration": 30,
    "creator": "hortontucker0328",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d250c720-9d5b-4944-9ab7-2ae29ebba073/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
+   "id": "FairDrabGoshawkSquadGoals-3I_braP9LrVWtJeb",
+   "title": "テスト",
+   "game": "Watch Parties",
+   "created": "2023-11-09T14:53:44Z",
+   "views": 1,
+   "duration": 30,
+   "creator": "yayoi03_i",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/1fb364a2-801b-42d0-94a0-9ba462f450f5/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "HungrySarcasticBaboonKeepo-K88hV_uKQlWOgm3Z",
@@ -54774,6 +54824,16 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/09d3eb14-76d6-4ec4-83b6-025e959df241/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
+   "id": "CloudyZealousAnteaterPeanutButterJellyTime-XWVyeFKBhYJGtN3_",
+   "title": "テスト",
+   "game": "Watch Parties",
+   "created": "2023-11-09T14:52:48Z",
+   "views": 1,
+   "duration": 30,
+   "creator": "ryutabon",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/b03e8ad3-4fd2-4a6d-bb0c-9ef86ebfcb24/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
    "id": "RacySucculentReubenBloodTrail-OkvDdIaFi1QXDe08",
    "title": "テスト",
    "game": "Watch Parties",
@@ -54792,16 +54852,6 @@
    "duration": 30,
    "creator": "ryutabon",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3a4f1c24-4025-47f4-9f9f-d0af769621e4/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
-   "id": "ElatedDeafPepperAliens-pXPVd7CM44OBAtCG",
-   "title": "テスト",
-   "game": "Watch Parties",
-   "created": "2023-11-09T14:52:37Z",
-   "views": 1,
-   "duration": 30,
-   "creator": "chage05410",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/1994eb7c-9d59-4fca-a275-466df4d46432/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "RamshackleAthleticAlligatorOSsloth-Jo3njFnIV9NmgRU6",
@@ -55734,16 +55784,6 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/628f33ab-5168-4e3c-af37-2cf487e90764/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
-   "id": "TangentialConfidentTrollSpicyBoy-hQFxv_fqkC_Bm0Cc",
-   "title": "テスト",
-   "game": "Watch Parties",
-   "created": "2023-11-09T13:58:20Z",
-   "views": 2,
-   "duration": 30,
-   "creator": "potapotayakuza",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/8b25f7cf-5f50-4903-858e-c73ac02c43e4/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
    "id": "WildAdventurousHerdMingLee-6n7DiOevRW9ldOEd",
    "title": "テスト",
    "game": "Watch Parties",
@@ -55752,16 +55792,6 @@
    "duration": 28,
    "creator": "hosokai59",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/82d6617a-db3a-478e-a426-bb8eb369fc0f/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
-   "id": "ThoughtfulSucculentTeaAsianGlow-WMb9s3QO6tpELpXV",
-   "title": "テスト",
-   "game": "Watch Parties",
-   "created": "2023-11-09T13:55:18Z",
-   "views": 2,
-   "duration": 30,
-   "creator": "tadabane",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ff20a3d6-cb5f-46d8-befe-08132867d625/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "DullImportantPandaCoolCat-N2hlU71lCTKAlkne",
@@ -56032,6 +56062,16 @@
    "duration": 30,
    "creator": "inazuma2676",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0a4d96ce-e5fb-4c4c-8a53-719b5c9d932c/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
+   "id": "GenerousSparklyWaterPJSalt-9pbu1dGpm71Dl6Zi",
+   "title": "テスト",
+   "game": "Watch Parties",
+   "created": "2023-11-09T13:47:44Z",
+   "views": 1,
+   "duration": 30,
+   "creator": "7owx",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f7c6c0a0-27b0-4954-b832-6318c6ddb49c/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "SnappyHappyFriseeTTours-VxgNMUDm4Zv9zKs7",
@@ -57234,16 +57274,6 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ce10d2bd-f198-4697-a099-bb75c4e8199d/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
-   "id": "HandsomeVivaciousGoblinKappaWealth-3TObfs4_qDdvlz-6",
-   "title": "テスト",
-   "game": "Watch Parties",
-   "created": "2023-11-09T13:02:26Z",
-   "views": 1,
-   "duration": 30,
-   "creator": "barelllla",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/da8cb2fa-b245-4c60-b28e-c1effbc48011/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
    "id": "RichInventivePicklesKappaClaus-93TlJghb34i6XLQA",
    "title": "テスト",
    "game": "Watch Parties",
@@ -57252,6 +57282,16 @@
    "duration": 26,
    "creator": "おにがしまにあ",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/b8cef228-46d6-48e8-976c-4bd6f16c4ffb/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
+   "id": "SwissAbnegatePieHoneyBadger-XliqnM-twirZ5rew",
+   "title": "テスト",
+   "game": "Watch Parties",
+   "created": "2023-11-09T13:01:14Z",
+   "views": 1,
+   "duration": 30,
+   "creator": "あげまんじゅー",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/855e5f12-7e57-4f97-a8bb-b28a1e40a6ac/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "SuspiciousShinyCakeKappaWealth-7pFJMzMedk46Fk6T",
@@ -57464,16 +57504,6 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/4c6966b2-5d34-4fbc-97d4-06d7b52b35c6/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
-   "id": "ResilientWanderingKaleNononoCat-imk-M3ki0oJ8Jl5V",
-   "title": "テスト",
-   "game": "Watch Parties",
-   "created": "2023-11-09T12:59:08Z",
-   "views": 1,
-   "duration": 30,
-   "creator": "gauwjsi",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/acb6a835-7ef9-4f63-a302-5bd40821a4af/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
    "id": "AntediluvianMushyDragonfruitGivePLZ-06W8wnlVU7g0CUIe",
    "title": "テスト",
    "game": "Watch Parties",
@@ -57492,6 +57522,16 @@
    "duration": 30,
    "creator": "juugatsu_oct",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/047c7197-1ba8-4de3-9b41-b6faffe7e9eb/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
+   "id": "VainCaringHumanSpicyBoy-6up-hTpuIgutRIIc",
+   "title": "テスト",
+   "game": "Watch Parties",
+   "created": "2023-11-09T12:59:01Z",
+   "views": 1,
+   "duration": 26,
+   "creator": "amoryb1aine",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3d2cb9c3-9a30-4ba4-aee7-d3d5b4a869c8/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "BoxyInnocentClamPunchTrees-z7hOuiwOpVGOPkfo",
@@ -57532,16 +57572,6 @@
    "duration": 30,
    "creator": "sinthia1211",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d7b335b0-884b-4bf4-af7e-dfca047d17be/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
-   "id": "ObliviousCuteNewtPJSalt-GZU1b2NM7Lt0wkLR",
-   "title": "テスト",
-   "game": "Watch Parties",
-   "created": "2023-11-09T12:58:50Z",
-   "views": 1,
-   "duration": 30,
-   "creator": "inouekousuke",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ea9b6c2a-a935-4209-a550-951d53b3394e/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "AttractiveEasyHumanChefFrank-ZEfWw5XhwU4hHhiQ",
@@ -57674,6 +57704,16 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/65dc6d46-b802-4cbc-9d24-6e782e700662/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
+   "id": "InquisitiveBlueDadWTRuck-P6DhNDY80QHAbata",
+   "title": "テスト",
+   "game": "Watch Parties",
+   "created": "2023-11-09T12:58:13Z",
+   "views": 1,
+   "duration": 30,
+   "creator": "potapotayakuza",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/2d925b85-b482-406a-84ab-13d2907d9317/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
    "id": "TacitSuaveTruffleVoteYea-yz0-FHKznGyiPRBg",
    "title": "テスト",
    "game": "Watch Parties",
@@ -57682,16 +57722,6 @@
    "duration": 26,
    "creator": "komagome6220",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/94459062-26b6-4941-bae2-7521e77d40d8/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
-   "id": "NurturingDarkPhoneFloof-N2kSD4fhCg-ss8G7",
-   "title": "テスト",
-   "game": "Watch Parties",
-   "created": "2023-11-09T12:58:10Z",
-   "views": 1,
-   "duration": 30,
-   "creator": "geneakiba",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/00a2d6cd-56ad-4823-b81b-a60d1188980a/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "BetterTsundereEchidnaPartyTime-UO0iQ_2dZKSFSp3i",
@@ -57892,6 +57922,16 @@
    "duration": 30,
    "creator": "同接123",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3fe2acd4-daed-4817-9793-48f321fe84e5/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
+   "id": "AcceptableJoyousPartridgeBatChest--raE6DA60hNOCGJh",
+   "title": "テスト",
+   "game": "Watch Parties",
+   "created": "2023-11-09T12:52:16Z",
+   "views": 1,
+   "duration": 30,
+   "creator": "shijimi_jill",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/682b1c96-37b9-4bbb-891a-19b4e38cc3b4/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "AmericanTenaciousStorkBIRB-O57mDqSro0eOLD24",
@@ -58574,6 +58614,16 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/88e2db71-1c6f-4fd1-9e9c-4b8fbac07b9b/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
+   "id": "ExuberantTangiblePastaThisIsSparta-Jk1vepUxjrj6VbIT",
+   "title": "テスト",
+   "game": "Watch Parties",
+   "created": "2023-11-09T12:38:43Z",
+   "views": 1,
+   "duration": 30,
+   "creator": "takoyaki5210",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/49e3c58e-01e6-43a9-aaa6-2981f4576154/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
    "id": "DepressedClearArtichokePogChamp-Mryq9HH8jnLfKjVd",
    "title": "テスト",
    "game": "Watch Parties",
@@ -58694,16 +58744,6 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/9c4cffaf-e28c-42fa-8946-a5293b503576/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
-   "id": "BitterSpoopySrirachaDxAbomb-h2Wqk41bRnTWshJL",
-   "title": "テスト",
-   "game": "Watch Parties",
-   "created": "2023-11-09T12:37:10Z",
-   "views": 1,
-   "duration": 26,
-   "creator": "nonbirineko22",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7c6f8b66-1d93-425c-8e61-6a20d5d6a819/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
    "id": "VictoriousAnnoyingOrcaMrDestructoid-AwsHliBoWUvwptOs",
    "title": "テスト",
    "game": "Watch Parties",
@@ -58754,6 +58794,16 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/1a2d67ac-582c-48c7-81d1-4682e1867f4c/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
+   "id": "SpotlessDrabWerewolfKevinTurtle-wKtJYcuMtQn8gH8Z",
+   "title": "テスト",
+   "game": "Watch Parties",
+   "created": "2023-11-09T12:36:59Z",
+   "views": 1,
+   "duration": 30,
+   "creator": "男太郎",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/cb35b102-d2fe-4da4-bbb5-c144366c2094/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
    "id": "EndearingTastyCurlewBIRB-eJznoXYzZN48bmQV",
    "title": "テスト",
    "game": "Watch Parties",
@@ -58782,16 +58832,6 @@
    "duration": 30,
    "creator": "okin773",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0fe5d46f-99e9-40bc-a56d-7a92fbd1eb1f/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
-   "id": "ImportantCheerfulRaccoonDxAbomb-tiJS8JOQeYMEBdHn",
-   "title": "テスト",
-   "game": "Watch Parties",
-   "created": "2023-11-09T12:36:38Z",
-   "views": 1,
-   "duration": 28,
-   "creator": "hiroki5678",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/b8f9271e-3e67-4d2a-b9de-e9c963b8e030/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "TameEmpathicCormorantPlanking-HzWyUZzUZWc9p0bt",
@@ -58842,16 +58882,6 @@
    "duration": 28,
    "creator": "one80sx",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/65667395-7194-45f2-81c4-712c35e2cdca/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
-   "id": "TolerantCovertAppleTheTarFu-6AbCMVDv0R2Uw8dR",
-   "title": "テスト",
-   "game": "Watch Parties",
-   "created": "2023-11-09T12:36:15Z",
-   "views": 1,
-   "duration": 26,
-   "creator": "hotarukk",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/1658f908-fac6-4400-8a71-03a324a6f314/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "HelplessBumblingMangetoutWholeWheat-iA9CyKgvjbeTaGi2",
@@ -58914,6 +58944,16 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c60be4f7-85ed-4101-a5bd-841c27b53f9a/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
+   "id": "GrossSpunkyPuppyShazBotstix-rl4w50Qw36NY3jZA",
+   "title": "テスト",
+   "game": "Watch Parties",
+   "created": "2023-11-09T12:35:56Z",
+   "views": 1,
+   "duration": 30,
+   "creator": "yt0606",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3bdabe11-cfbd-4294-99dc-6622c7827c20/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
    "id": "ElatedPeacefulEchidnaGivePLZ-uKOXXtHp3Q7mgbO4",
    "title": "テスト",
    "game": "Watch Parties",
@@ -58944,16 +58984,6 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/1800d6c7-c560-47b2-805f-b7024def601b/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
-   "id": "JazzyShakingWebTBCheesePull-GL_i0TmevstcrPdM",
-   "title": "テスト",
-   "game": "Watch Parties",
-   "created": "2023-11-09T12:35:44Z",
-   "views": 1,
-   "duration": 26,
-   "creator": "salaryman_class1st",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6e69cbc1-fd9c-41b6-bee8-532f4f072a24/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
    "id": "PeacefulPricklyLapwingKAPOW-FRorI2-tGCbDYZBg",
    "title": "テスト",
    "game": "Watch Parties",
@@ -58962,6 +58992,16 @@
    "duration": 30,
    "creator": "hiyake1717",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/fa52cd7d-df6f-4df0-adfe-12621114b5ae/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
+   "id": "DeafOptimisticMarjoramDancingBanana-k8mlfLKdYmbSD3py",
+   "title": "テスト",
+   "game": "Watch Parties",
+   "created": "2023-11-09T12:35:39Z",
+   "views": 1,
+   "duration": 26,
+   "creator": "nosinosin",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/2839737d-6c65-4a92-81a2-240e0acbaa1b/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "SmilingClumsyCheesecakeThisIsSparta-RRiktIhgz7abxha7",
@@ -59022,6 +59062,16 @@
    "duration": 26,
    "creator": "dododoraemon",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7c851d91-d98b-4cd7-84d0-78992429cb52/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
+   "id": "UglySparklingGerbilRaccAttack-kTlVhZstVFYUPx_6",
+   "title": "テスト",
+   "game": "Watch Parties",
+   "created": "2023-11-09T12:35:22Z",
+   "views": 1,
+   "duration": 28,
+   "creator": "imoonsno",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7263f98d-4ea9-4f20-862c-9c9f9aba3fec/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "SlickJollyTortoiseSMOrc-Az3KP7fMHho1nQxx",
@@ -59094,16 +59144,6 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/482d6407-16f0-46b0-8835-52194130d310/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
-   "id": "TrustworthyCrazyDaikonTwitchRPG-dHkZS1xHOCmL5olr",
-   "title": "テスト",
-   "game": "Watch Parties",
-   "created": "2023-11-09T12:35:07Z",
-   "views": 1,
-   "duration": 26,
-   "creator": "yanyan1010m",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7e358799-4ff2-48f2-9ab1-bddff636b633/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
    "id": "WanderingHorribleRabbitJebaited-C6z2bDPi08qPTm3U",
    "title": "テスト",
    "game": "Watch Parties",
@@ -59164,14 +59204,14 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/13c88efc-16b6-4557-9724-ff623e8eef35/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
-   "id": "BumblingAbnegateEyeballCmonBruh-7lW20YevRiRNEEfP",
+   "id": "PlausibleSourHumanNotATK-vdNx1QtAkuR4tmXb",
    "title": "テスト",
    "game": "Watch Parties",
-   "created": "2023-11-09T12:34:29Z",
+   "created": "2023-11-09T12:34:42Z",
    "views": 1,
-   "duration": 28,
-   "creator": "atmdtdt",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3e94f88b-f7b5-4ca3-8f5e-6973e9d5a4b9/landscape/thumb/thumb-0000000000-480x272.jpg"
+   "duration": 30,
+   "creator": "pompom_bkw",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3621eb46-9189-48e2-8d52-f0cf976afa43/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "DiligentRefinedPonyRalpherZ-8IwRzyFJytbmi9Ln",
@@ -59284,6 +59324,16 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/9a88f39a-d5b9-4239-bec1-e65df119dd7e/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
+   "id": "OptimisticHeartlessGiraffeVoteNay-FzKfERI21zgpQSrk",
+   "title": "テスト",
+   "game": "Watch Parties",
+   "created": "2023-11-09T12:33:58Z",
+   "views": 2,
+   "duration": 30,
+   "creator": "レガーミ",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/e1fead72-e38a-4ec5-9ee1-34238db687bf/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
    "id": "FragileThirstyOtterDoritosChip-ByVNHy_4CUJKYI08",
    "title": "テスト",
    "game": "Watch Parties",
@@ -59364,16 +59414,6 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/9aa9c1f5-d1de-4611-ba9c-d1a59223c0fa/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
-   "id": "MotionlessIncredulousElkSSSsss-zbMZj_YtYPRM645X",
-   "title": "テスト",
-   "game": "Watch Parties",
-   "created": "2023-11-09T12:33:37Z",
-   "views": 1,
-   "duration": 30,
-   "creator": "nikusanzen",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7e24f663-7f64-41d1-a8cd-0c9bed46d592/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
    "id": "PleasantBigWatercressTheThing-i_yAmqW9yhS6I-4o",
    "title": "テスト",
    "game": "Watch Parties",
@@ -59424,6 +59464,16 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/598724c5-a584-447d-be43-eb7561a20d3d/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
+   "id": "TenaciousFlaccidPistachioGOWSkull--wzagRC1PTDhqJ4R",
+   "title": "テスト",
+   "game": "Watch Parties",
+   "created": "2023-11-09T12:33:23Z",
+   "views": 1,
+   "duration": 30,
+   "creator": "banana364",
+   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d6dd1928-dfaf-43bb-8c92-74eee828c981/landscape/thumb/thumb-0000000000-480x272.jpg"
+  },
+  {
    "id": "ExuberantBitterJalapenoCoolStoryBro-ktmzRpQxzUwGSJ6x",
    "title": "テスト",
    "game": "Watch Parties",
@@ -59432,16 +59482,6 @@
    "duration": 26,
    "creator": "よう2525",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/df38ed9b-e8e8-480c-a0f1-2b7aad0cadc7/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
-   "id": "HonestWrongKoalaANELE-IS4YjJEVI-p-08v3",
-   "title": "テスト",
-   "game": "Watch Parties",
-   "created": "2023-11-09T12:33:15Z",
-   "views": 1,
-   "duration": 26,
-   "creator": "mabdb",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7d2d052e-4f49-4407-9808-745f778d5715/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "LazyZanyPrariedogGrammarKing-yQ4WQ92axHQa4A5U",
@@ -59664,16 +59704,6 @@
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3e2c7e2f-2128-4486-8fff-5b748532e40a/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
-   "id": "PlayfulJoyousLasagnaStrawBeary-jEyzyRR-xLyHbR1m",
-   "title": "テスト",
-   "game": "Just Chatting",
-   "created": "2023-11-09T12:32:03Z",
-   "views": 1,
-   "duration": 30,
-   "creator": "agomangettar",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/87463dc0-c535-417f-9d6c-7867001f695c/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
    "id": "BashfulProudChickenPunchTrees-BNS-g5iehYEuvuEI",
    "title": "テスト",
    "game": "Just Chatting",
@@ -59792,16 +59822,6 @@
    "duration": 28,
    "creator": "ppbankoromochi",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/de1f838a-f5e5-458a-b323-ab739092ce7f/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
-   "id": "BumblingSuaveMonkeyWOOP-8rkJKQUYLF1tD3c-",
-   "title": "テスト",
-   "game": "Just Chatting",
-   "created": "2023-11-09T12:31:13Z",
-   "views": 1,
-   "duration": 30,
-   "creator": "lailiy0000",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d3cffad3-4e91-41a5-b6ca-974767ef6c59/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "AmazonianDiligentTriangleBatChest-PDmcKp1eocsmS-n1",
@@ -61262,16 +61282,6 @@
    "duration": 28,
    "creator": "マートレ主任",
    "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/83524e1b-f660-49be-a87e-421a96d8b874/landscape/thumb/thumb-0000000000-480x272.jpg"
-  },
-  {
-   "id": "TiredShyBunnyPhilosoraptor-OPTUufK2ah7y6BUG",
-   "title": "テストカラオケ",
-   "game": "Just Chatting",
-   "created": "2023-08-12T14:20:25Z",
-   "views": 1,
-   "duration": 26,
-   "creator": "はるはか",
-   "thumb": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/48c05c72-2a4b-4ddb-88de-b3130c31e64a/landscape/thumb/thumb-0000000000-480x272.jpg"
   },
   {
    "id": "CourageousFunBeaverHassaanChop-E49lRKriXXavsj90",
